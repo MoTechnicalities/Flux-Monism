@@ -2728,13 +2728,13 @@ This glossary provides the complete topological classification of fundamental pa
 
 #### B.6 Knot Operations and Particle Processes
 
-**Knot Sum** ($\#$)
+**Knot Sum** ($\\#$)
 - **Physical Process:** Particle fusion/combination
-- **Example:** $T_{2,3} \# T_{2,3} \# T_{2,5} \to \text{Proton}$
+- **Example:** $T_{2,3} \\# T_{2,3} \\# T_{2,5} \to \text{Proton}$
 
 **Knot Mutation**
 - **Physical Process:** Particle decay with topology change
-- **Example:** Neutron beta decay: $4_1 \to 3_1 \# T_{3,2}$
+- **Example:** Neutron beta decay: $4_1 \to 3_1 \\# T_{3,2}$
 
 **Reidemeister Moves**
 - **Physical Process:** Local topological fluctuations
@@ -2744,7 +2744,7 @@ This glossary provides the complete topological classification of fundamental pa
 
 **Scattering Cross-sections**
 - Different knot types produce characteristic scattering patterns
-- Electron ($T_{3,2}$) vs. proton ($3_1 \# T_{2,3} \# T_{2,5}$) scattering differences
+- Electron ($T_{3,2}$) vs. proton ($3_1 \\# T_{2,3} \\# T_{2,5}$) scattering differences
 
 **Decay Pathways**
 - Allowed decays correspond to possible topological transformations
