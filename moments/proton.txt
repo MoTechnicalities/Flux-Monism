@@ -1,0 +1,9 @@
+=== Flux Monism Trefoil Proton ===
+ Path length          :   18.8495559215 (arbitrary units)
+ Flux tension σ       :   3.518000E+43 N
+ Circulating current  :   2.109847E+34 (effective A·turn)
+ Effective area       :   8.4823000000 (scaled)
+ μ_p calculated       :   2.7928456712 μ_N
+ μ_p experimental     :   2.7928473400 μ_N
+ Agreement            :  -0.000059 % off
+ → Within experimental error. Trefoil confirmed.
