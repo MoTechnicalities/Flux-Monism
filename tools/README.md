@@ -28,10 +28,10 @@ The magnetic moment code achieves 10⁻⁶ accuracy. These topology tools focus 
 
 **`tools/`** (this directory):
 - Uses path length and topology
-- Educational and exploratory
+- Educational and exploratory  
 - Visualizes the knot structures
 
-Both use σ = 3.518×10⁴³ N but tackle different problems.
+Both use σ = 0.0212 N (corrected universal flux tension) for elementary particles.
 
 ---
 

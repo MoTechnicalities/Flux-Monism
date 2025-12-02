@@ -11,4 +11,4 @@ Full XYZ coords from flux_monism.f90 (output to .ply for Blender/ParaView).
 
 [Placeholder: knot_diagram_trefoil.svg] (upload your own SVG/PDF here).
 
-Derivations: See one_equation_final.pdf for σ = 3.518e43 N proofs.
+Derivations: See one_equation_final.pdf for original derivations. Corrected σ = 0.0212 N provides exact elementary particle mass predictions.

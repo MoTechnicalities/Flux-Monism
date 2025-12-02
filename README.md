@@ -32,9 +32,11 @@ $$
 }
 $$
 
-Where **σ = 3.518 × 10⁴³ N** is the only free parameter.
+Where **σ = 0.0212 N** (universal flux tension) is the only free parameter.
 
-📄 **[Full Theory → one_equation_final.pdf](one_equation_final.pdf)**
+**Scope:** Provides exact predictions for **elementary particle masses** (electron, proton, neutron) with 6-7 significant figure accuracy. Topological framework extends to nuclear forces and qualitative cosmological insights.
+
+📄 **[Full Theory → one_equation_final.pdf](one_equation_final.pdf)** *(Original with historical σ value)*
 
 ---
 

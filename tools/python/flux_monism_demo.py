@@ -6,7 +6,7 @@ One Constant, All Particles: Demonstrating Topological Knot Theory
 ============================================================================
 
 Based on: "One Equation to Rule Them All" by Mogir Jason Rofick
-Theory: The universe is a single magnetic flux medium (σ = 3.518×10⁴³ N)
+Theory: The universe is a single magnetic flux medium (σ = 0.0212 N)
         Particles are topological knots with T(p,q) torus parameters
 
 This simulator demonstrates:
@@ -25,7 +25,7 @@ import sys
 # UNIVERSAL CONSTANTS
 # ============================================================================
 
-SIGMA = 3.518e43        # Universal flux tension (N) - THE ONLY FUNDAMENTAL CONSTANT
+SIGMA = 0.0212          # Universal flux tension (N) - THE ONLY FUNDAMENTAL CONSTANT
 HBAR = 1.0545718e-34    # Reduced Planck constant (J·s)
 C = 2.99792458e8        # Speed of light (m/s)
 E = 1.60217662e-19      # Elementary charge (C)
@@ -251,7 +251,7 @@ def print_key_insights():
     print("   • Mass hierarchy emerges from knot complexity")
     print()
     print("5. ONLY ONE FREE PARAMETER:")
-    print("   • σ = 3.518×10⁴³ N (universal flux tension)")
+    print("   • σ = 0.0212 N (universal flux tension)")
     print("   • All other properties emerge from topology + σ")
     print("   • No Standard Model's 19+ free parameters!")
     print()
@@ -300,7 +300,7 @@ def main():
     print("CONCLUSION:")
     print("-" * 100)
     print("All particle properties emerge from topological knots in a universal magnetic")
-    print("flux with a single fundamental constant: σ = 3.518×10⁴³ N")
+    print("flux with a single fundamental constant: σ = 0.0212 N")
     print()
     print("One equation. One constant. All of physics.")
     print("=" * 100)
