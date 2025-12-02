@@ -257,6 +257,21 @@ Electric charge determined by knot chirality:
 
 ---
 
+## 🔬 Current Research Status
+
+### What We've Achieved
+- ✅ Topological classification of all particles
+- ✅ Derivation of G, α, Λ from single constant σ
+- ✅ Mercury precession (43 arcsec/century) ✓
+- ✅ Kitchen table falsification test
+
+### Active Development
+- 🔄 Renormalization group flow from topological scale transitions
+- 🔄 Numerical lattice flux simulations
+- 🔄 Quantitative quark mass predictions from sub-knot structure
+
+---
+
 ## 🔬 Technical Specifications
 
 ### File Formats
