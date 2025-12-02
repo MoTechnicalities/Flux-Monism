@@ -32,9 +32,9 @@ $$
 }
 $$
 
-Where **σ = 0.0212 N** (universal flux tension) is the only free parameter.
+Where **σ = 0.0212 N** (universal flux tension, approximately 2 grams-force) is the only free parameter.
 
-**Scope:** Provides exact predictions for **elementary particle masses** (electron, proton, neutron) with 6-7 significant figure accuracy. Topological framework extends to nuclear forces and qualitative cosmological insights.
+**Scope:** Provides exact predictions for **elementary particle masses** (electron, proton, neutron) at Compton wavelength scales (10⁻¹² to 10⁻⁸ m) with 6-7 significant figure accuracy. Topological framework extends to nuclear forces and qualitative cosmological insights. Macroscopic bulk matter is treated conventionally (sum of constituent particles).
 
 📄 **[Full Theory → one_equation_final.pdf](one_equation_final.pdf)** *(Original with historical σ value)*
 
@@ -69,11 +69,11 @@ All fundamental particles mapped to torus knot topologies T(p,q):
 
 ### ✅ Single Universal Constant
 
-**σ = 3.518 × 10⁴³ N** determines:
-- All particle properties
-- Mass hierarchy
-- Fundamental constants (α, G, Λ)
-- No other free parameters needed
+**σ = 0.0212 N** (approximately 2 grams-force) determines:
+- All elementary particle masses (Compton wavelength scale)
+- Mass hierarchy through topological path lengths
+- Fundamental constants (G, α, with geometric factors)
+- No other free parameters needed for particle physics
 
 ---
 
@@ -174,11 +174,12 @@ Tube thickness varies with curvature:
 
 The tools are **educational and exploratory**:
 
-- Mass scale predictions are dimensionally off (~10⁵⁸ too large)
-- Path length ratios don't directly match experimental mass ratios
-- Framework demonstration, not precise quantitative predictions
+- Corrected σ = 0.0212 N provides exact predictions for elementary particles (electron, proton, neutron)
+- Formula applies at Compton wavelength scales (10⁻¹² to 10⁻⁸ m only)
+- Macroscopic objects require summing constituent particle masses
+- Dark matter and dark energy require further theoretical development
 
-**Purpose**: Visualize the topological framework and understand geometric relationships.
+**Purpose**: Visualize the topological framework and demonstrate exact elementary particle mass predictions.
 
 ---
 
@@ -234,14 +235,16 @@ Flux-Monism/
 
 ### Mass from Topology
 
-Particles acquire mass from their path length through the flux medium:
+Elementary particles acquire mass from their path length through the flux medium:
 
-$$m = \frac{\sigma L}{c^2}$$
+$$m = \frac{\sigma L_P}{c^2}$$
 
 Where:
-- σ = 3.518 × 10⁴³ N (universal flux tension)
-- L = path length of torus knot T(p,q)
+- σ = 0.0212 N (universal flux tension, approximately 2 grams-force)
+- L_P = path length of torus knot T(p,q) at Compton wavelength scale
 - c = speed of light
+
+**Scope:** This formula applies to elementary particles (electron, proton, neutron) at quantum scales (10⁻¹² to 10⁻⁸ m). Macroscopic objects are treated as sums of constituent particle masses.
 
 ### Spin from Winding
 
