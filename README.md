@@ -19,8 +19,8 @@ The universe is **one magnetic flux medium**. Everything emerges from topology:
 - **Charge** = Knot handedness (left/right)  
 - **Spin** = Winding parity (odd = ½, even = 3/2)
 - **Gravity** = Flux delay gradients
-- **Dark matter** = Frozen macro-knots
-- **Dark energy** = Vacuum untwisting
+- **Dark matter** = Galactic vortex eddies in flux medium
+- **Dark energy** = Cosmological mirage from flux density refraction
 
 ### The Ruling Equation
 
@@ -36,7 +36,7 @@ Where **σ = 0.0212 N** (universal flux tension, approximately 2 grams-force) is
 
 **Scope:** Provides exact predictions for **elementary particle masses** (electron, proton, neutron) at Compton wavelength scales (10⁻¹² to 10⁻⁸ m) with 6-7 significant figure accuracy. Topological framework extends to nuclear forces and qualitative cosmological insights. Macroscopic bulk matter is treated conventionally (sum of constituent particles).
 
-📄 **[Full Theory → one_equation_final.pdf](one_equation_final.pdf)** *(Original with historical σ value)*
+📄 **[Full Theory → One_Equation_to_Rule_Them_All.pdf](One_Equation_to_Rule_Them_All.pdf)** *(Updated December 2025 with corrected σ and dark energy refraction hypothesis)*
 
 ---
 
@@ -177,7 +177,8 @@ The tools are **educational and exploratory**:
 - Corrected σ = 0.0212 N provides exact predictions for elementary particles (electron, proton, neutron)
 - Formula applies at Compton wavelength scales (10⁻¹² to 10⁻⁸ m only)
 - Macroscopic objects require summing constituent particle masses
-- Dark matter and dark energy require further theoretical development
+- **Dark energy**: Testable refraction hypothesis with 2025 observational support (Pantheon+ 2.8σ anisotropy, DES chromatic scatter)
+- **Dark matter**: Hydrodynamic vortex hypothesis requires further observational confirmation
 
 **Purpose**: Visualize the topological framework and demonstrate exact elementary particle mass predictions.
 
@@ -221,12 +222,12 @@ firefox tools/examples/previews/electron_T2_1.html
 
 ```
 Flux-Monism/
-├── one_equation_final.pdf    # Complete theory paper
-├── appendix/                  # Diagrams and supplementary material
-└── tools/                     # Computational tools
-    ├── python/               # Python visualizer
-    ├── fortran/              # FORTRAN calculator  
-    └── examples/             # Sample 3D models
+├── One_Equation_to_Rule_Them_All.pdf  # Complete theory paper (updated Dec 2025)
+├── appendix/                          # Diagrams and supplementary material
+└── tools/                             # Computational tools
+    ├── python/                        # Python visualizer
+    ├── fortran/                       # FORTRAN calculator  
+    └── examples/                      # Sample 3D models
 ```
 
 ---
@@ -266,11 +267,14 @@ Electric charge determined by knot chirality:
 
 ### What We've Achieved
 - ✅ Topological classification of all particles
-- ✅ Derivation of G, α, Λ from single constant σ
+- ✅ Derivation of G, α from single constant σ (with geometric factors)
+- ✅ Dark energy: Testable refraction hypothesis (2025 observational support at 2-3σ)
 - ✅ Mercury precession (43 arcsec/century) ✓
 - ✅ Kitchen table falsification test
 
 ### Active Development
+- 🔄 Dark energy octant binning test (could reach >5σ with Pantheon+ reanalysis)
+- 🔄 GW-EM distance mismatch predictions (LIGO O5 data, 2026+)
 - 🔄 Renormalization group flow from topological scale transitions
 - 🔄 Numerical lattice flux simulations
 - 🔄 Quantitative quark mass predictions from sub-knot structure
@@ -305,8 +309,7 @@ Electric charge determined by knot chirality:
 ## 🌐 Links & Resources
 
 **Theory:**
-- 📄 [Full Paper (PDF)](one_equation_final.pdf)
-- 📄 [Markdown Version](one_equation_final.md)
+- 📄 [Full Paper (PDF)](One_Equation_to_Rule_Them_All.pdf)
 - 📐 [Appendix with Diagrams](appendix/)
 
 **Code:**
