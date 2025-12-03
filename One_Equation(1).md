@@ -2899,7 +2899,7 @@ Creating an electron–positron pair at rest requires the flow state to supply: 
 
 **This document continues in Part 2:**
 
-➡️ **[One Equation to Rule Them All - Part 2: Cosmic Mysteries & Conclusions](One_Equation%20(2).md)**
+➡️ **[One Equation to Rule Them All - Part 2: Cosmic Mysteries & Conclusions](One_Equation(2).md)**
 
 *Part 2 covers:*
 - Section 12: Black Holes, Variable Causality, and Pair Production
