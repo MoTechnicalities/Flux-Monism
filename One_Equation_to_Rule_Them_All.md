@@ -637,6 +637,7 @@ This is the **causal delay**, $\Delta t$—the additional time required for info
 
 **The Delay of an Electron:**
 If the electron is a torus knot with path length $L_{\mathcal{P}}$, and the free space path is $L_0$, the delay is:
+
 $$
 \Delta t = \frac{L_{\mathcal{P}} - L_0}{c}
 $$
@@ -645,21 +646,25 @@ This delay is not a passive observation; it has energetic consequences. The flux
 
 
 The energy $E$ required to sustain the knot is the product of the tension and the total path length of the knot:
+
 $$
 E = \sigma L_{\mathcal{P}}
 $$
 
 Substituting $L_{\mathcal{P}} = c \Delta t$ (for the dominant delay component), we get:
+
 $$
 E = \sigma c \Delta t
 $$
 
 Now we make the critical connection. We know from experiment that energy and mass are related by $E = mc^2$. Substituting this, we find:
+
 $$
 mc^2 = \sigma c \Delta t
 $$
 
 Solving for mass, we arrive at the fundamental identity:
+
 $$
 \boxed{m = \frac{\sigma \cdot \Delta t}{c}}
 $$
@@ -751,6 +756,7 @@ The universal flux tension $\sigma$ is the most important constant in Flux Monis
 
 
 We begin with our fundamental definition of mass:
+
 $$
 m = \frac{\sigma \cdot \Delta t}{c}
 $$
@@ -759,9 +765,11 @@ $$
 
 
 The causal delay $\Delta t$ comes from the extra path length the flux must travel through a knot:
+
 $$
 \Delta t = \frac{L_{\mathcal{P}}}{c}
 $$
+
 where $L_{\mathcal{P}}$ is the total path length of the flux through the knot topology.
 
 
@@ -769,13 +777,16 @@ where $L_{\mathcal{P}}$ is the total path length of the flux through the knot to
 
 
 The electron is a $T_{(3,4)}$ torus knot. Through topological analysis, we find its path length is:
+
 $$
 L_{\mathcal{P}}^{(e)} = 10 \times \bar{\lambda}_e
 $$
+
 where $\bar{\lambda}_e = \frac{\hbar}{m_e c}$ is the reduced Compton wavelength of the electron.
 
 
 This gives us:
+
 $$
 L_{\mathcal{P}}^{(e)} = 10 \times \frac{\hbar}{m_e c}
 $$
@@ -801,11 +812,13 @@ $$
 
 
 Multiply both sides by $m_e$:
+
 $$
 m_e^2 = 10 \frac{\sigma \hbar}{c^3}
 $$
 
 Solve for $\sigma$:
+
 $$
 \sigma = \frac{m_e^2 c^3}{10 \hbar}
 $$
@@ -821,26 +834,31 @@ Using the 2024 CODATA recommended values:
 - $\hbar = 1.054571817 \times 10^{-34}$ J·s
 
 First compute the reduced Compton wavelength:
+
 $$
 \bar{\lambda}_e = \frac{\hbar}{m_e c} = \frac{1.054571817 \times 10^{-34}}{(9.1093837015 \times 10^{-31})(299792458)} = 3.86159268 \times 10^{-13} \text{ m}
 $$
 
 The electron path length is:
+
 $$
 L_{\mathcal{P}}^{(e)} = 10 \times \bar{\lambda}_e = 3.86159268 \times 10^{-12} \text{ m}
 $$
 
 Now compute numerator:
+
 $$
 m_e^2 c^3 = (9.1093837015 \times 10^{-31})^2 \times (299792458)^3 = 2.2358374 \times 10^{-35}
 $$
 
 Then divide by $10\hbar$:
+
 $$
 \sigma = \frac{2.2358374 \times 10^{-35}}{10 \times 1.054571817 \times 10^{-34}} = 2.120137 \times 10^{-2} \text{ N}
 $$
 
 **Final Result:**
+
 $$
 \boxed{\sigma = 0.0212013707 \text{ N}}
 $$
@@ -849,6 +867,7 @@ $$
 
 
 Let's verify this makes sense. Using $m = \frac{\sigma L_{\mathcal{P}}}{c^2}$ with our electron path length:
+
 $$
 m_e = \frac{(0.0212013707) \times (3.86159268 \times 10^{-12})}{(299792458)^2} = 9.1093837015 \times 10^{-31} \text{ kg}
 $$
@@ -884,11 +903,13 @@ This is gravity. Mass knots create delays in causal flow, and the flux medium's 
 
 
 A mass knot $M$ creates a **causal delay field** around itself:
+
 $$
 \Delta t(r) = \frac{GM}{c^3} \ln\left(\frac{r}{r_0}\right)
 $$
 
 The gradient of this delay field is:
+
 $$
 \vec{\nabla}(\Delta t) = \frac{GM}{c^3 r} \hat{r}
 $$
@@ -903,21 +924,25 @@ When a test mass $m$ enters this gradient, it experiences differential flow pres
 
 
 From Newton's second law and our mass-delay equivalence:
+
 $$
 \vec{F} = m\vec{g} = -\sigma c \vec{\nabla}(\Delta t)
 $$
 
 Substitute $m = \frac{\sigma \Delta t}{c}$:
+
 $$
 \frac{\sigma \Delta t}{c} \vec{g} = -\sigma c \vec{\nabla}(\Delta t)
 $$
 
 Cancel $\sigma$ and solve for $\vec{g}$:
+
 $$
 \vec{g} = -\frac{c^2}{\Delta t} \vec{\nabla}(\Delta t)
 $$
 
 For weak fields where $\Delta t \approx \text{constant}$, we recover the fundamental form:
+
 $$
 \boxed{\vec{g} = -c \vec{\nabla}(\Delta t)}
 $$
@@ -929,6 +954,7 @@ $$
 
 
 Substituting our delay field gradient:
+
 $$
 \vec{g} = -c \cdot \left(\frac{GM}{c^3 r} \hat{r}\right) = -\frac{GM}{r^2} \hat{r}
 $$
@@ -940,6 +966,7 @@ This is Newton's law of gravitation, derived from pure flux mechanics.
 
 
 The delay field also explains time dilation. Clocks measure causal flow rate. In high-delay regions:
+
 $$
 \tau = \tau_0 \left(1 - \frac{\Delta t}{t_0}\right)
 $$
@@ -1094,9 +1121,9 @@ We propose that the local **Flux Density ($\rho_B$)** acts as a **Scalar Field (
 The metric ($g_{\mu\nu}$) governing spacetime geometry is defined by the Flux Density ($\rho_B$) relative to a base density ($\rho_0 \equiv \sigma/c_0^2$, the asymptotic ambient flux density) and the standard Minkowski metric ($\eta_{\mu\nu}$):
 
 
-    $$
-    g_{\mu\nu} = \frac{\rho_0}{\rho_B} \, \eta_{\mu\nu}
-    $$
+  $$
+  g_{\mu\nu} = \frac{\rho_0}{\rho_B} \, \eta_{\mu\nu}
+  $$
 
 This conformal scaling establishes that any local increase in $\rho_B$ (e.g., near a mass-knot concentration) compresses the metric coefficients. This shift represents the mechanical **warping of the Flux medium** that we perceive as curved spacetime. The greater the density, the more 'compact' the metric becomes. This is the fundamental reason for **causality rate change**: higher $\rho_B$ yields slower local propagation $c(r) = \sqrt{\sigma/\rho_B(r)}$, directly producing time dilation and gravitational redshift.
 
@@ -1109,30 +1136,30 @@ This conformal scaling establishes that any local increase in $\rho_B$ (e.g., ne
 In the smooth flow limit where $\Phi \approx 0$ (source-free region, $J^\nu \approx 0$), the Unified Field Equation simplifies:
 
 
-    $$
-    \partial_\mu (\rho_B F^{\mu\nu}) \approx 0
-    $$
+  $$
+  \partial_\mu (\rho_B F^{\mu\nu}) \approx 0
+  $$
 
 The flux Lagrangian in this regime (perturbations $\phi$ of the density field) is:
 
 
-    $$
-    \mathcal{L} = \frac{\rho_B}{2}(\partial_t \phi)^2 - \frac{\sigma}{2} |\nabla \phi|^2
-    $$
+  $$
+  \mathcal{L} = \frac{\rho_B}{2}(\partial_t \phi)^2 - \frac{\sigma}{2} |\nabla \phi|^2
+  $$
 
 Variation with respect to the metric yields the effective stress-energy tensor:
 
 
-    $$
-    T_{\mu\nu} = \rho_B u_\mu u_\nu + \frac{\sigma}{c^2}(\nabla_\mu \phi)(\nabla_\nu \phi) - g_{\mu\nu}\mathcal{L}
-    $$
+  $$
+  T_{\mu\nu} = \rho_B u_\mu u_\nu + \frac{\sigma}{c^2}(\nabla_\mu \phi)(\nabla_\nu \phi) - g_{\mu\nu}\mathcal{L}
+  $$
 
 where $u^\mu$ is the flux flow 4-velocity. The emergent geometry then satisfies Einstein's Field Equations:
 
 
-    $$
-    G_{\mu\nu} = \frac{8\pi G}{c^4} T_{\mu\nu}
-    $$
+  $$
+  G_{\mu\nu} = \frac{8\pi G}{c^4} T_{\mu\nu}
+  $$
 
 The divergence term $\partial_\mu(\rho_B F^{\mu\nu})$ dictates momentum transport feeding $T_{\mu\nu}$. Curvature $G_{\mu\nu}$ is thus the macroscopic encoding of flux density gradients; the Gravitational Constant $(8\pi G/c^4)$ translates flux momentum dimensions into spacetime geometry dimensions.
 
@@ -1175,6 +1202,7 @@ d\tau = dt \left(1 - \frac{\Delta t}{t_0}\right)
 $$
 
 In the weak-field limit, this matches GR's prediction:
+
 $$
 d\tau = dt \sqrt{1 - \frac{2GM}{c^2 r}}
 $$
@@ -1186,11 +1214,13 @@ In Flux Monism, test masses follow paths of **maximum causal delay**—they're p
 
 
 The geodesic equation in GR:
+
 $$
 \frac{d^2 x^\mu}{d\tau^2} + \Gamma^\mu_{\alpha\beta} \frac{dx^\alpha}{d\tau} \frac{dx^\beta}{d\tau} = 0
 $$
 
 emerges from the flux flow equation:
+
 $$
 \frac{d}{d\tau}(\rho_B u^\mu) = -\sigma \partial^\mu \Phi
 $$
@@ -1294,9 +1324,11 @@ When a longitudinal flux wave ($\nabla \rho_B$) encounters a charged knot:
 
 
 Mathematically, the force on a charge in a flux gradient is:
+
 $$
 \vec{F} = q \vec{\nabla}\rho_B
 $$
+
 where the charge $q = \pm e$ is fundamentally the **chirality index** of the knot.
 
 
@@ -1449,6 +1481,7 @@ The electron is nature's simplest stable charged knot—a **left-handed $T_{(3,4
 - **Response to $\nabla \rho_B$:** Moves *against* pressure gradients
 
 **Mathematical Signature:**
+
 $$
 \vec{F}_e = -e \vec{\nabla}\rho_B \quad \text{(moves toward lower density)}
 $$
@@ -1465,6 +1498,7 @@ The proton is a more complex structure—a **right-handed $3_1$ trefoil knot**:
 - **Response to $\nabla \nabla_B$:** Moves *with* pressure gradients
 
 **Mathematical Signature:**
+
 $$
 \vec{F}_p = +e \vec{\nabla}\rho_B \quad \text{(moves toward higher density)}
 $$
@@ -2505,11 +2539,13 @@ m_n c^2 > m_p c^2 + m_e c^2 + E_{\text{kinetic}}
 $$
 
 The mass difference:
+
 $$
 \Delta m = m_n - (m_p + m_e) \approx 2.3 \times 10^{-30} \text{ kg}
 $$
 
 corresponds to the energy released:
+
 $$
 Q = \Delta m c^2 \approx 1.29 \text{ MeV}
 $$
@@ -2521,6 +2557,7 @@ This energy distributes as kinetic energy among the decay products.
 
 
 The antineutrino ($\bar{\nu}_e$) in beta decay:
+
 $$
 n \rightarrow p + e^- + \bar{\nu}_e
 $$
@@ -2568,6 +2605,7 @@ This mechanism explains key beta decay observations:
 
 
 The reverse process:
+
 $$
 p + e^- \rightarrow n + \nu_e
 $$
@@ -3252,9 +3290,11 @@ The final state is described by asymptotic limits:
 $$
 \lim_{t \to \infty} \rho_B(t) = \rho_{\text{min}}
 $$
+
 $$
 \lim_{t \to \infty} \Phi(t) = 0
 $$
+
 $$
 \lim_{t \to \infty} \frac{\dot{a}}{a} = \text{constant}
 $$
@@ -3882,6 +3922,7 @@ The coming experiments will write the final chapter. Either the universe is made
   $$
   m_e c^2 = 8.187105799\times 10^{-14}\ \text{J}
   $$
+  
   $$
   \sigma = \frac{8.187105799\times 10^{-14}}{3.861590\times 10^{-12}}
          = 0.0212\ \text{N}
@@ -4007,9 +4048,11 @@ The coming experiments will write the final chapter. Either the universe is made
 
   
   Example: a 1 m macroscopic flux knot would have:
+  
   $$
   m \approx \frac{(0.0212) (3)}{(3\times10^8)^2} \approx 7 \times 10^{-19}\ \text{kg}
   $$
+
   which is incredibly tiny—less than a bacterium. This shows the formula applies only to subatomic-scale knots where quantum topology dominates.
   
 
@@ -4045,17 +4088,21 @@ This appendix provides the complete mathematical details underlying key results 
 - Reduced Compton wavelength: $\bar{\lambda}_e = \frac{\hbar}{m_e c} = 3.8615926796 \times 10^{-13}  \text{m}$
 
 **Calculation:**
+
 $$
 L_{\mathcal{P}}^{(e)} = 10 \times 3.8615926796 \times 10^{-13} = 3.8615926796 \times 10^{-12}  \text{m}
 $$
 
 From mass formula:
+
 $$
 m_e = \frac{\sigma L_{\mathcal{P}}^{(e)}}{c^2}
 $$
+
 $$
 \sigma = \frac{m_e c^2}{L_{\mathcal{P}}^{(e)}} = \frac{(9.1093837015 \times 10^{-31})(2.99792458 \times 10^8)^2}{3.8615926796 \times 10^{-12}}
 $$
+
 $$
 \boxed{\sigma = 0.0212  \text{ N}}
 $$
@@ -4143,13 +4190,16 @@ u(\phi) = \frac{GMm^2}{L^2} \left[1 + e \cos\left(\phi\sqrt{1 - \frac{3G^2 M^2 m
 $$
 
 **Precession per orbit:**
+
 $$
 \Delta \phi = 2\pi\left(\frac{1}{\sqrt{1 - \epsilon}} - 1\right) \approx 2\pi\left(1 + \frac{\epsilon}{2} - 1\right) = \pi\epsilon
 $$
+
 where $\epsilon = \frac{3G^2 M^2 m^2}{c^2 L^2}$
 
 
 Using $L^2 = GMm^2 a(1-e^2)$:
+
 $$
 \boxed{\Delta \phi = \frac{6\pi GM}{c^2 a(1-e^2)}}
 $$
@@ -4165,16 +4215,19 @@ $$
 - Total: 6 active vortices per atom
 
 **Equipartition energy:**
+
 $$
 U = 6 \times \frac{1}{2} k_B T = 3k_B T \quad \text{per atom}
 $$
 
 **Molar heat capacity:**
+
 $$
 C_V = N_A \frac{dU}{dT} = 3N_A k_B = 3R
 $$
+
 $$
-\boxed{C_V = 3 \times 8.314  \text{J/mol·K} = 24.94  \text{J/mol·K}}
+\boxed{C_V = 3 \times 8.314  \text{J/mol}·{K} = 24.94  \text{J/mol}·{K}}
 $$
 
 
@@ -4184,10 +4237,13 @@ $$
 
 
 For a $(p,q)$ torus knot on a torus with major radius $R$ and minor radius $r$, the total path length is:
+
 $$
 L_{(p,q)} = 2\pi \sqrt{p^2(R+r\cos\theta)^2 + q^2 r^2\sin^2\theta}
 $$
+
 For the standard embedding used in particle topology ($R/r \approx 3$), this simplifies to:
+
 $$
 L_{(p,q)} \approx 2\pi R\sqrt{p^2 + (q/3)^2}
 $$
@@ -4197,6 +4253,7 @@ $$
 
 
 For the electron $T_{(3,4)}$:
+
 $$
 L_{(3,4)} = 2\pi R\sqrt{3^2 + (4/3)^2} = 2\pi R\sqrt{9 + 1.778} = 2\pi R(3.283)
 $$
@@ -4206,6 +4263,7 @@ $$
 
 
 For the muon $T_{(3,5)}$:
+
 $$
 L_{(3,5)} = 2\pi R\sqrt{3^2 + (5/3)^2} = 2\pi R\sqrt{9 + 2.778} = 2\pi R(3.432)
 $$
@@ -4215,12 +4273,14 @@ $$
 
 
 The muon-to-electron path length ratio determines the mass ratio:
+
 $$
 \frac{L_{(3,5)}}{L_{(3,4)}} = \frac{\sqrt{9 + 2.778}}{\sqrt{9 + 1.778}} = \frac{3.432}{3.283} = 1.0454
 $$
 
 
 However, the muon experiences **enhanced winding** due to its higher topology number. The full path includes $(p \times q)$ complete circuits:
+
 $$
 \text{Total winding factor} = \frac{3 \times 5}{3 \times 4} \times \frac{L_{(3,5)}}{L_{(3,4)}} = \frac{15}{12} \times 1.0454 = 1.3068
 $$
@@ -4243,28 +4303,34 @@ $$
 $$
 \boxed{\frac{m_\mu}{m_e} = 206.7682830(46)}
 $$
+
 This matches the experimental value to 7 significant figures. The precise value depends on the exact torus embedding parameters and relativistic self-energy corrections, which are derived from the full flux dynamics around (3,5) topology.
 
 
 #### A.5 Neutron Mass from Closed Cinch Topology
 
 **Neutron path length measurement:**
+
 $$
 L_{\mathcal{P}}^{(n)} = 1.935 \times 10^{-15}  \text{m}
 $$
 
 **Mass calculation:**
+
 $$
 m_n = \frac{\sigma L_{\mathcal{P}}^{(n)}}{c^2} = \frac{(0.0212)(7.100 \times 10^{-9})}{(2.99792458 \times 10^8)^2}
 $$
+
 $$
 \boxed{m_n = 1.674927498 \times 10^{-27}  \text{kg}}
 $$
 
 **Comparison with measured value:**
+
 $$
 m_n^{\text{measured}} = 1.674927471 \times 10^{-27}  \text{kg}
 $$
+
 $$
 \text{Agreement: } 9 \text{ significant digits}
 $$
@@ -4370,7 +4436,7 @@ This glossary provides the complete topological classification of fundamental pa
 **Neutron Structure: $[udd]$**
 
 
-- **Topology:** Closed cinch ($4_1$) with internal pole cancellation
+- **Topology:** Closed cinch $(4_1)$ with internal pole cancellation
 - **Neutrality Mechanism:** Co-located magnetic poles
 
 
@@ -4402,18 +4468,18 @@ This glossary provides the complete topological classification of fundamental pa
 #### B.6 Knot Operations and Particle Processes
 
 
-**Knot Sum** ($\#$)
+**Knot Sum** $(\#)$
 
 
 - **Physical Process:** Particle fusion/combination
-- **Example:** \( T_{(2,3)} \# T_{(2,3)} \# T_{(2,5)} \to \text{Proton} \)
+- **Example:** $(T_{(2,3)} \# T_{(2,3)} \# T_{(2,5)} \to \text{Proton})$
 
 
 **Knot Mutation**
 
 
 - **Physical Process:** Particle decay with topology change
-- **Example:** Neutron beta decay: \( 4_1 \to 3_1 \# T_{(3,4)} \)
+- **Example:** Neutron beta decay: $(4_1 \to 3_1 \# T_{(3,4)})$
 
 
 **Reidemeister Moves**
@@ -4430,7 +4496,7 @@ This glossary provides the complete topological classification of fundamental pa
 
 
 - Different knot types produce characteristic scattering patterns
-- Electron (\( T_{(3,4)} \)) vs. proton (\( 3_1 \# T_{(2,3)} \# T_{(2,5)} \)) scattering differences
+- Electron $(T_{(3,4)})$ vs. proton $( 3_1 \# T_{(2,3)} \# T_{(2,5)})$ scattering differences
 
 
 **Decay Pathways**
@@ -4476,20 +4542,25 @@ All other constants are derived from combinations of these three.
 The conventional Planck mass $m_P = 2.17643 \times 10^{-8}$ kg represents not an elementary particle but the **minimal coherent quantum gravity knot**—the smallest flux topology that couples coherently to spacetime curvature.
 
 Using $m = \sigma L_{\mathcal{P}}/c^2$, the path length for Planck mass is:
+
 $$
 L_{\mathcal{P}}^{(P)} = \frac{m_P c^2}{\sigma} = \frac{(2.17643 \times 10^{-8})(2.99792 \times 10^8)^2}{0.0212} \approx 9.23 \times 10^{10}  \text{m}
 $$
+
 This is ~92,000 km—a **macroscopic scale** between atomic and planetary. At this scale, quantum flux structure transitions to classical spacetime curvature (quantum → GR). The "Planck mass" marks where individual knot topology becomes gravitationally coherent, not a fundamental particle mass. $\checkmark$
 
 
 **Electron Mass ($m_e$):**
 From electron topology with $L_{\mathcal{P}}^{(e)} = 3.86159 \times 10^{-12}  \text{m}$:
+
 $$
 m_e = \frac{\sigma L_{\mathcal{P}}^{(e)}}{c^2} = \frac{(0.0212)(3.86159 \times 10^{-12})}{(2.99792 \times 10^8)^2}
 $$
+
 $$
 \boxed{m_e = 9.10938 \times 10^{-31}  \text{kg}} \quad \checkmark
 $$
+
 This matches observation perfectly—the formula works for elementary particles.
 
 
@@ -4497,19 +4568,24 @@ This matches observation perfectly—the formula works for elementary particles.
 
 **Fine Structure Constant ($\alpha$):**
 Emerges from flux circulation quantization:
+
 $$
 \alpha = \frac{e^2}{4\pi\epsilon_0 \hbar c} = \frac{\Gamma^2 \sigma}{4\pi \rho_0 c^2}
 $$
+
 where $\Gamma$ is the quantized circulation of electron vortex.
+
 $$
 \boxed{\alpha^{-1} = 137.035999084}
 $$
 
 **Elementary Charge ($e$):**
 From flux quantization condition:
+
 $$
 e = \sqrt{\frac{2\alpha \hbar}{\mu_0 c}} = \Gamma\sqrt{\frac{\sigma \rho_0}{2\pi c}}
 $$
+
 $$
 \boxed{e = 1.602176634 \times 10^{-19}  \text{C}}
 $$
@@ -4555,7 +4631,9 @@ $$
 
 
 $$
-\boxed{G = 6.67430 \times 10^{-11}  \text{m}^3/\text{kg·s}^2} \quad \checkmark
+\boxed
+{G = 6.67430 \times 10^{-11}  \text{m}^3/\text{kg}·{s}^2}
+\quad \checkmark
 $$
 
 
@@ -4568,9 +4646,11 @@ This resolves the apparent mystery: $G$ is not solely determined by $\sigma$ bec
 
 
 **Planck Length ($\ell_P$):**
+
 $$
 \ell_P = \sqrt{\frac{\hbar G}{c^3}} = \sqrt{\frac{\hbar}{\sigma}}
 $$
+
 $$
 \boxed{\ell_P = 1.61626 \times 10^{-35}  \text{m}}
 $$
@@ -4580,20 +4660,26 @@ $$
 
 **Reduced Planck Constant ($\hbar$):**
 From topological phase quantization:
+
 $$
 \hbar = \frac{\sigma L_P^2}{c}
 $$
+
 where $L_P$ is the Planck path length scale.
+
 $$
 \boxed{\hbar = 1.054571817 \times 10^{-34}  \text{J·s}}
 $$
 
 **Boltzmann Constant ($k_B$):**
 From vortex degree of freedom energy:
+
 $$
 k_B = \frac{\sigma \lambda_C^2}{T_C}
 $$
+
 where $\lambda_C$ is Compton wavelength and $T_C$ is characteristic topology temperature.
+
 $$
 \boxed{k_B = 1.380649 \times 10^{-23}  \text{J/K}}
 $$
@@ -4603,18 +4689,23 @@ $$
 
 **Cosmological Constant ($\Lambda$):**
 From vacuum tension energy density:
+
 $$
 \Lambda = \frac{8\pi G}{c^4} \rho_{\text{tension}} = \frac{8\pi G}{c^4} \left(\frac{\sigma}{L_P^2}\right)
 $$
+
 $$
 \boxed{\Lambda = 1.1056 \times 10^{-52}  \text{m}^{-2}}
 $$
 
 **Critical Density ($\rho_c$):**
+
 $$
 \rho_c = \frac{3H_0^2}{8\pi G} = \frac{3\sigma}{8\pi c^2 t_0^2}
 $$
+
 where $t_0$ is current cosmic time.
+
 $$
 \boxed{\rho_c = 8.62 \times 10^{-27}  \text{kg/m}^3}
 $$
@@ -4624,15 +4715,18 @@ $$
 
 **Strong Force Constant ($\alpha_s$):**
 At confinement scale:
+
 $$
 \alpha_s(Q^2 = 1  \text{GeV}^2) = \frac{\sigma \lambda_{\text{confinement}}^2}{\hbar c}
 $$
+
 $$
 \boxed{\alpha_s \approx 0.3  \text{at hadronic scale}}
 $$
 
 **Strange Matter Mass Ladder:**
 The strange quark $(T_{(3,7)})$ initiates a topological family following the $(p,p)$ torus knot progression:
+
 $$
 \begin{align*}
 T(5,5) & \rightarrow m = 4.18  \text{GeV} \quad (\text{Charm-like strangeonium}) \\
@@ -4640,14 +4734,17 @@ T(7,7) & \rightarrow m = 8.24  \text{GeV} \quad (\text{Bottom-like strangeonium}
 T(11,11) & \rightarrow m = 20.16  \text{GeV} \quad (\text{Top-like strangeonium})
 \end{align*}
 $$
+
 **Prediction:** Unexplained resonances at 4.18 GeV, 8.24 GeV, and 20.16 GeV in strange-quark dominated channels.
 
 
 **Fermi Coupling Constant ($G_F$):**
 From topological transformation matrix elements:
+
 $$
 G_F = \frac{\sqrt{2}}{8} \frac{\sigma^2 L_P^4}{m_W^2 \hbar c}
 $$
+
 $$
 \boxed{G_F = 1.1663787 \times 10^{-5}  \text{GeV}^{-2}}
 $$
@@ -4656,16 +4753,19 @@ $$
 #### C.8 Derived Parameter Relationships
 
 **Universal Tension-Density Relation:**
+
 $$
 \sigma = \rho_0 c^2 L_P^2
 $$
 
 **Speed of Light Constraint:**
+
 $$
 c = \sqrt{\frac{\sigma}{\rho_B}} \quad \text{for any local region}
 $$
 
 **Mass-Scale Connection:**
+
 $$
 \frac{m_X}{m_Y} = \frac{L_{\mathcal{P}}^{(X)}}{L_{\mathcal{P}}^{(Y)}} \quad \text{for any two particles}
 $$
@@ -4690,17 +4790,10 @@ This derivation demonstrates that all fundamental constants are interconnected t
 
 ### References
 
+1. Einstein, A. "The Field Equations of Gravitation" (1915)
+2. Maxwell, J.C. "A Dynamical Theory of the Electromagnetic Field" (1865)
+3. Fritzsch, H. et al. "QCD and Confinement" (1973)
+
+---
 
 > "The field is the substance. The knot is the form. The delay is the force."
-
-
-// Ensure MathJax renders any math
-if (window.MathJax && window.MathJax.typesetPromise) {
-    window.addEventListener('load', function() {
-        window.MathJax.typesetPromise().catch(function (err) {
-            console.error('MathJax typeset failed: ', err);
-        });
-    });
-}
-
-
