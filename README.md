@@ -36,7 +36,9 @@ Where **σ = 0.0212 N** (universal flux tension, approximately 2 grams-force) is
 
 **Scope:** Provides exact predictions for **elementary particle masses** (electron, proton, neutron) at Compton wavelength scales (10⁻¹² to 10⁻⁸ m) with 6-7 significant figure accuracy. Topological framework extends to nuclear forces and qualitative cosmological insights. Macroscopic bulk matter is treated conventionally (sum of constituent particles).
 
-📄 **[Full Theory → One_Equation_to_Rule_Them_All.pdf](One_Equation_to_Rule_Them_All.pdf)** *(Updated December 2025 with corrected σ and dark energy refraction hypothesis)*
+📄 **[Full Theory (PDF) → One_Equation_to_Rule_Them_All.pdf](One_Equation_to_Rule_Them_All.pdf)** *(Updated December 2025 with corrected σ and dark energy refraction hypothesis)*
+
+📖 **[Full Theory (Markdown) → Part 1](One_Equation(1).md) | [Part 2](One_Equation(2).md)** *(GitHub-readable version with LaTeX rendering)*
 
 ---
 
