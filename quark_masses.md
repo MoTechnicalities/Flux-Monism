@@ -18,7 +18,7 @@ Leptons correspond to *pure winding-number excitations*:
 with masses following:
 
 $$
-m \propto n^2..
+m \propto n^2.
 $$
 
 Quarks, however, experience **partial confinement curvature**, which increases their effective winding pressure.  
