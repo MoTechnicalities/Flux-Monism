@@ -11,14 +11,14 @@ Flux Monism interprets all fermions—leptons and quarks—as *topological excit
 
 Leptons correspond to *pure winding-number excitations*:
 
-- Electron: $n = 1$
-- Muon: $n \approx 14.38$
-- Tau: $n \approx 58.97$
+- Electron: $n = 1$
+- Muon: $n \approx 14.38$
+- Tau: $n \approx 58.97$
 
 with masses following:
 
 $$
-m \propto n^2.
+m \propto n^2..
 $$
 
 Quarks, however, experience **partial confinement curvature**, which increases their effective winding pressure.  
