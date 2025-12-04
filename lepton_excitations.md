@@ -1,4 +1,9 @@
-# Lepton Excitations in the Flux Medium
+# Lepton Excitations in the Flux Medium  
+### Flux Monism — Fermion Spectrum Part I  
+**Author:** Mogir Rofick  
+**Date:** 2025  
+
+---
 
 ## 1. The Flux Medium as the Fundamental Substrate
 
