@@ -22,14 +22,14 @@ m \propto n^2.
 $$
 
 Quarks, however, experience **partial confinement curvature**, which increases their effective winding pressure.  
-This adds a **curvature amplification factor** \( K \).  
+This adds a **curvature amplification factor** $K$.  
 The result is the unified mass formula:
 
 ---
 
 # 2. The Quark Mass Formula
 
-For a quark with winding number \( n_q \):
+For a quark with winding number $n_q$:
 
 $$
 m_q = m_e \, (K n_q)^2,
@@ -43,13 +43,13 @@ $$
 
 Where:
 
-- \( n_q \) = the intrinsic winding quantum number  
-- \( K \) = **confinement curvature factor**  
-- \( m_e = 0.511~\text{MeV} \)
+- $n_q$ = the intrinsic winding quantum number  
+- $K$ = **confinement curvature factor**  
+- $m_e = 0.511~\text{MeV}$
 
 ---
 
-# 3. Choosing a Single Universal \( K \)
+# 3. Choosing a Single Universal $K$
 
 Empirical fitting shows that *one and the same* constant:
 
@@ -138,14 +138,14 @@ This suggests fractional charge is not fundamental—it emerges from **geometric
 
 We take:
 
-| Quark | Mass (MeV) | Ratio \(m_q/m_e\) | Required \( n_q \) | Prediction |
+| Quark | Mass (MeV) | Ratio $m_q/m_e$ | Required $n_q$ | Prediction |
 |------|------------|-------------------|----------------------|------------|
-| **u** | 2.2 | 4.30 | \( n_u = 1 \) | ✓ |
-| **d** | 4.7 | 9.19 | \( n_d = 2 \) | ✓ |
-| **s** | 96 | 188 | \( n_s = 4 \) | ✓ |
-| **c** | 1280 | 2500 | \( n_c = 8 \) | ✓ |
-| **b** | 4180 | 8180 | \( n_b = 16 \) | ✓ |
-| **t** | 173,000 | 338,000 | \( n_t = 32 \) | ✓ |
+| **u** | 2.2 | 4.30 | $n_u = 1$ | ✓ |
+| **d** | 4.7 | 9.19 | $n_d = 2$ | ✓ |
+| **s** | 96 | 188 | $n_s = 4$ | ✓ |
+| **c** | 1280 | 2500 | $n_c = 8$ | ✓ |
+| **b** | 4180 | 8180 | $n_b = 16$ | ✓ |
+| **t** | 173,000 | 338,000 | $n_t = 32$ | ✓ |
 
 These masses correspond to **renormalized and running values at low energy**, where winding interpretation is most direct.
 
@@ -163,7 +163,7 @@ $$
 
 ## 5.1 Example: Strange Quark
 
-Given \( n_s = 4 \):
+Given $n_s = 4$:
 
 $$
 m_s = 0.511 \,(4.06\cdot 4)^2
@@ -264,10 +264,10 @@ For lighter quarks (u, d, s, c, b), the bare winding energy dominates and predic
 # 6. Matching Standard Model Behavior
 
 ### Leptons:  
-Free vortices → pure winding → exact \( n^2 \).
+Free vortices → pure winding → exact $n^2$.
 
 ### Quarks:  
-Confined vortices → winding multiplied by curvature factor \( K \approx 4.06 \).
+Confined vortices → winding multiplied by curvature factor $K \approx 4.06$.
 
 ### Why binary sequence?  
 Confinement in SU(3) color compresses flux lines into **quantized binary twists**:
@@ -295,7 +295,7 @@ Flux Monism unifies quarks and leptons as:
 
 This is the first theory to reproduce all quark masses from:
 
-1. a single geometric constant \(K\)
+1. a single geometric constant $K$
 2. the same universal winding number spectrum
 3. a unified topological origin with leptons
 
@@ -332,7 +332,7 @@ The **binary winding sequence n = 2^k is topologically exact**. Quantitative dis
 ## 7. Predictions
 
 ### 1. A 4th-generation quark is impossible  
-The next winding number would be \( n = 64 \):
+The next winding number would be $n = 64$:
 
 $$
 m = m_e (4.06\cdot 64)^2 \approx 35~\text{GeV}
@@ -353,12 +353,12 @@ as unwinding pressure relaxes—predicting the exact slope.
 
 # 9. The Unified Fermion Spectrum (Final Form)
 
-| Particle | Type | \(n\) | Mass Formula | Works? |
+| Particle | Type | $n$ | Mass Formula | Works? |
 |---------|------|------|--------------|--------|
-| e | lepton | 1 | \( m_e \) | ✓ |
-| μ | lepton | 14.38 | \( m_e n^2 \) | ✓ |
-| τ | lepton | 58.97 | \( m_e n^2 \) | ✓ |
-| u | quark | 1 | \( m_e (Kn)^2 \) | ✓ |
+| e | lepton | 1 | $m_e$ | ✓ |
+| μ | lepton | 14.38 | $m_e n^2$ | ✓ |
+| τ | lepton | 58.97 | $m_e n^2$ | ✓ |
+| u | quark | 1 | $m_e (Kn)^2$ | ✓ |
 | d | quark | 2 | ✓ |
 | s | quark | 4 | ✓ |
 | c | quark | 8 | ✓ |
