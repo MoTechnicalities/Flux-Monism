@@ -7,7 +7,7 @@
 
 # 1. Overview
 
-Flux Monism interprets all fermions—leptons and quarks—as *topological excitation states* of a single primordial flux tube (the T(3,4) torus-knot vacuum defect).
+Flux Monism interprets all fermions—leptons and quarks—as *topological excitation states* of a single primordial flux tube (the T(3,4) torus-knot vacuum structure).
 
 Leptons correspond to *pure winding-number excitations*:
 
@@ -291,7 +291,7 @@ Quarks are **the same lepton topology**, but:
 
 Flux Monism unifies quarks and leptons as:
 
-> “Different excitation states of the same T(3,4) flux defect under different boundary constraints.”
+> "Different excitation states of the same T(3,4) flux structure under different boundary constraints."
 
 This is the first theory to reproduce all quark masses from:
 
