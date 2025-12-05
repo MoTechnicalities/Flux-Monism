@@ -12,9 +12,9 @@ The charged leptons (electron, muon, tau) follow a simple n² winding law with i
 $$m_n = m_e \cdot n^2$$
 
 where:
-- Electron: n = 1 (ground state)
-- Muon: n ≈ 14.38
-- Tau: n ≈ 58.97
+- Electron: $n = 1$ (ground state)
+- Muon: $n ≈ 14.38$
+- Tau: $n ≈ 58.97$
 
 But what about **neutrinos**—the ghost-like partners of charged leptons?
 
@@ -231,7 +231,9 @@ Even though neutrinos lack charge, they retain **weak interaction** coupling bec
 ### 8.1 Mass-Squared Differences
 
 **Observed** (NuFIT 5.1, 2021):
+
 $$\Delta m_{21}^2 = 7.42 \times 10^{-5}~\text{eV}^2$$
+
 $$\Delta m_{31}^2 = 2.51 \times 10^{-3}~\text{eV}^2$$
 
 **Fractional winding prediction** (normal hierarchy, $\sum m_\nu = 0.06$ eV):
