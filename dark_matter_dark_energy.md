@@ -715,4 +715,32 @@ No other theory unifies particle physics and cosmology this completely.
 
 ---
 
+# 13. Connection to Continuum Mechanics Formalism
+
+The dark matter and dark energy phenomena connect directly to the **elastic medium picture**:
+
+**Elastic modulus E ~ 10³⁵ Pa is scale-invariant**:
+- At 10⁻¹⁵ m: Creates electron stability (quantum scale)
+- At 10²¹ m: Creates galaxy vortex stability (cosmological scale)
+- Same stiffness, same topology, different boundary conditions
+
+**Dark matter vortex mass**:
+$$M_{\text{DM}}(r) = \frac{\rho_B \omega^2 r^3}{c^2} = \frac{E \cdot \epsilon_{\text{rot}}^2 \cdot V}{c^2}$$
+
+Where ε_rot is the rotational strain in the flux medium—exactly analogous to electron mass from compression strain.
+
+**Dark energy refraction**:
+$$\delta_{\text{refraction}} \propto \int \frac{\Delta E}{E} \, dz$$
+
+Cosmological expansion creates stress gradients in E → refractive index variations → apparent dimming.
+
+**Physical interpretation**: 
+- **Galaxies** are macroscopic versions of **electrons** (both are vortex compressions)
+- **Dark matter halos** are **stress fields** surrounding galactic knots
+- **Dark energy** is **stress wave propagation** through cosmological gradients
+
+See [FM_CONTINUUM_MECHANICS_FORMALISM.md](FM_CONTINUUM_MECHANICS_FORMALISM.md) for the fundamental stress tensor equations that apply at all scales—from particle to cosmos.
+
+---
+
 # End of File

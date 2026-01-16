@@ -698,4 +698,22 @@ $$\boxed{\alpha_s(Q) = \frac{1.42}{K(Q)} = 0.35 \times \left(\frac{200~\text{MeV
 
 ---
 
+## 16. Connection to Continuum Mechanics Formalism
+
+The topological derivation of α_s connects to the **elastic compression picture**:
+
+**Confinement factor K ≈ 4.06**: Measures the compression ratio in the elastic medium. Quarks experience ~16× higher compression pressure than leptons (K² ≈ 16).
+
+**Elastic modulus**: E ~ 10³⁵ Pa creates the enormous stiffness that maintains quark confinement at sub-femtometer scales.
+
+**Running with energy**: As Q increases, compression radius decreases → K(Q) grows → α_s(Q) decreases. This is **mechanical scale-dependence** of stress field intensity.
+
+**Physical interpretation**: α_s = 1.42/K is the ratio of elastic deformation energy to total binding energy. Higher K means tighter compression → weaker effective coupling (asymptotic freedom).
+
+**γ = 3/(4π)**: Reflects how **SU(3) color stress** distributes through the T(3,4) vacuum structure's 12 crossing points.
+
+See [FM_CONTINUUM_MECHANICS_FORMALISM.md](FM_CONTINUUM_MECHANICS_FORMALISM.md) for complete stress tensor derivation of confinement and how QCD emerges from elastic medium dynamics.
+
+---
+
 **End of File**

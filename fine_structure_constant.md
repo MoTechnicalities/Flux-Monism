@@ -673,4 +673,20 @@ The fine structure constant α ≈ 1/137.036 is **not mysterious**—it's the el
 
 ---
 
+## 16. Connection to Continuum Mechanics Formalism
+
+The topological derivation of α connects to the **elastic medium picture** of Flux Monism:
+
+**Elastic modulus**: E ~ 10³⁵ Pa (derived from electron mass and Compton wavelength) creates the stress modes that generate the 2⁷ EM phase space dimensions.
+
+**Compression geometry**: The trefoil knot's 3-fold symmetry (3²) emerges from how compression stress distributes in the twisted flux structure.
+
+**Golden ratio correction**: The 1/(4π√5) term reflects the elastic path length through the compressed knot geometry—directly calculable from stress field integration.
+
+**Physical interpretation**: α is the ratio of elastic compression energy to rotational kinetic energy in the T(2,1) knot structure.
+
+See [FM_CONTINUUM_MECHANICS_FORMALISM.md](FM_CONTINUUM_MECHANICS_FORMALISM.md) for complete mechanical derivation showing how α emerges from stress tensor dynamics.
+
+---
+
 **End of File**
