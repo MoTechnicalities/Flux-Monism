@@ -10,9 +10,10 @@
 ### For Newcomers: Start Here
 
 1. **[README.md](README.md)** - Overview, key achievements, quick start
-2. **[FM_CONTINUUM_MECHANICS_FORMALISM.md](FM_CONTINUUM_MECHANICS_FORMALISM.md)** - ⭐ NEW: Mechanical picture (start here for intuition!)
-3. **[One_Equation(1).md](One_Equation(1).md)** - Original theory paper (Part 1)
-4. **[One_Equation(2).md](One_Equation(2).md)** - Original theory paper (Part 2)
+2. **[QUANTUM_MECHANICS_FROM_STRESS_WAVES.md](QUANTUM_MECHANICS_FROM_STRESS_WAVES.md)** - ⭐ NEW: QM is classical mechanics! (most accessible)
+3. **[FM_CONTINUUM_MECHANICS_FORMALISM.md](FM_CONTINUUM_MECHANICS_FORMALISM.md)** - Mechanical picture (particles = compressions)
+4. **[One_Equation(1).md](One_Equation(1).md)** - Original theory paper (Part 1)
+5. **[One_Equation(2).md](One_Equation(2).md)** - Original theory paper (Part 2)
 
 ### For Particle Physics
 
@@ -29,10 +30,14 @@
 
 10. **[dark_matter_dark_energy.md](dark_matter_dark_energy.md)** - Vortex structures & refraction
 
+### For Quantum Foundations
+
+11. **[QUANTUM_MECHANICS_FROM_STRESS_WAVES.md](QUANTUM_MECHANICS_FROM_STRESS_WAVES.md)** - ⭐ NEW: Schrödinger, uncertainty, entanglement derived
+
 ### Project History
 
-11. **[JOURNEY.md](JOURNEY.md)** - Discovery narrative, conceptual evolution
-12. **[UPDATES_SUMMARY.md](UPDATES_SUMMARY.md)** - Chronological breakthrough log
+12. **[JOURNEY.md](JOURNEY.md)** - Discovery narrative, conceptual evolution
+13. **[UPDATES_SUMMARY.md](UPDATES_SUMMARY.md)** - Chronological breakthrough log
 
 ---
 
@@ -129,6 +134,11 @@
 ---
 
 ## 🎯 Key Insights by Document
+
+### QUANTUM_MECHANICS_FROM_STRESS_WAVES.md ⭐
+> "Quantum mechanics is stress wave dynamics in an elastic medium"
+
+**Why read**: Solves century-old mystery. Schrödinger equation = elastic wave equation. Uncertainty = energy minimization. Entanglement = field continuity. **No more quantum mysticism.**
 
 ### FM_CONTINUUM_MECHANICS_FORMALISM.md ⭐
 > "Particles are twisted compressions in an elastic medium with E ~ 10³⁵ Pa"
@@ -268,12 +278,14 @@ Dark energy:  δ_refraction ∝ ∫ ΔE/E dz
 - **Dec 4, 2025**: Neutrino fractional winding
 - **Dec 4, 2025**: Dark matter/energy vortex model
 - **Jan 15, 2026**: ⭐ **Continuum mechanics formalism** (E ~ 10³⁵ Pa)
+- **Jan 16, 2026**: ⭐ **Quantum mechanics derived** from stress waves
 
 ---
 
 ## 🎯 Quick Reference
 
-**Need intuition?** → FM_CONTINUUM_MECHANICS_FORMALISM.md  
+**Need intuition?** → QUANTUM_MECHANICS_FROM_STRESS_WAVES.md (start here!)  
+**Need formalism?** → FM_CONTINUUM_MECHANICS_FORMALISM.md  
 **Need particle masses?** → lepton_excitations.md, quark_masses.md  
 **Need constants?** → fine_structure_constant.md, strong_coupling.md  
 **Need cosmology?** → dark_matter_dark_energy.md  

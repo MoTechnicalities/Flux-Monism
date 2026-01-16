@@ -3,7 +3,8 @@
 **Date of discovery:** 21 November 2025  
 **Public release:** 01 December 2025  
 **Major breakthrough:** 04 December 2025 — Lepton & quark mass ratios derived from first principles  
-**Fundamental insight:** 15 January 2026 — Continuum mechanics formalism reveals particles as elastic medium compressions
+**Fundamental insight:** 15 January 2026 — Continuum mechanics formalism reveals particles as elastic medium compressions  
+**Revolutionary derivation:** 16 January 2026 — Quantum mechanics derived from stress wave dynamics
 
 [![License](https://img.shields.io/badge/License-CC0-blue)](LICENSE)
 [![Python](https://img.shields.io/badge/Python-3.8+-blue?logo=python)](tools/python/)
@@ -42,7 +43,9 @@ Where **σ = 0.0212 N** (universal flux tension, approximately 2 grams-force) is
 
 📖 **[Full Theory (Markdown) → Part 1](One_Equation(1).md) | [Part 2](One_Equation(2).md)** *(GitHub-readable version with LaTeX rendering)*
 
-🔧 **[Continuum Mechanics Formalism → FM_CONTINUUM_MECHANICS_FORMALISM.md](FM_CONTINUUM_MECHANICS_FORMALISM.md)** *(NEW: Particles as elastic medium compressions, E ~ 10³⁵ Pa derived from electron mass)*
+🔧 **[Continuum Mechanics Formalism → FM_CONTINUUM_MECHANICS_FORMALISM.md](FM_CONTINUUM_MECHANICS_FORMALISM.md)** *(Particles as elastic medium compressions, E ~ 10³⁵ Pa derived from electron mass)*
+
+🌊 **[Quantum Mechanics Derived → QUANTUM_MECHANICS_FROM_STRESS_WAVES.md](QUANTUM_MECHANICS_FROM_STRESS_WAVES.md)** *(NEW: Schrödinger equation, uncertainty, entanglement from stress waves—QM is classical mechanics!)*
 
 🌀 **[Lepton Mass Breakthrough → lepton_excitations.md](lepton_excitations.md)** *(n² winding law derives electron/muon/tau mass ratios and Koide formula)*
 
@@ -53,7 +56,39 @@ Where **σ = 0.0212 N** (universal flux tension, approximately 2 grams-force) is
 ---
 
 ## 🎯 Key Achievements
+### 🌊 JANUARY 2026: Quantum Mechanics Derived from Stress Waves
 
+**Century-old mystery solved**: Quantum mechanics is **not fundamental**—it's the behavior of stress waves in an elastic medium with E ~ 10³⁵ Pa.
+
+#### Schrödinger Equation Emerges from Elastic Waves
+
+The wave function ψ **is the stress amplitude field** σ(r,t):
+
+$$i\hbar \frac{\partial \sigma}{\partial t} = -\frac{\hbar^2}{2m} \nabla^2 \sigma + V \sigma$$
+
+**Physical meaning**: Stress oscillations in flux medium, not abstract probability amplitude.
+
+#### Uncertainty Principle from Energy Minimization
+
+$$\Delta x \cdot \Delta p \geq \frac{\hbar}{2}$$
+
+**Not mysterious randomness**—it's the minimum energy balance between stress confinement (Δx small) and momentum gradient (Δp small). Both cannot be minimized simultaneously.
+
+#### Quantum Phenomena Explained
+
+- **Wave-particle duality**: Knot (particle) + oscillating stress field (wave)
+- **Double-slit interference**: Stress field splits → interferes → knot relocalizes
+- **Entanglement**: Shared continuous stress field (instant adjustment, no spooky action)
+- **Tunneling**: Stress field penetrates barriers exponentially
+- **Spin**: Intrinsic vorticity of knot topology
+- **Zero-point energy**: Minimum stress fluctuations (vacuum can't be still)
+- **Measurement collapse**: Stress localization through interaction
+
+**Result**: All of quantum mechanics is **classical continuum mechanics** of stress waves. No interpretations needed—physical stress fields replace philosophical debates.
+
+🌊 **[Complete derivation → QUANTUM_MECHANICS_FROM_STRESS_WAVES.md](QUANTUM_MECHANICS_FROM_STRESS_WAVES.md)**
+
+---
 ### � JANUARY 2026 BREAKTHROUGH: Continuum Mechanics Formalism
 
 **Conceptual revolution**: Flux Monism translated from abstract field theory into **classical continuum mechanics**—particles are now understood as **twisted compressions in an elastic medium** with derivable properties.
