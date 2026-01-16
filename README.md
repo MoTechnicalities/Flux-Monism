@@ -2,7 +2,8 @@
 
 **Date of discovery:** 21 November 2025  
 **Public release:** 01 December 2025  
-**Major breakthrough:** 04 December 2025 — Lepton & quark mass ratios derived from first principles
+**Major breakthrough:** 04 December 2025 — Lepton & quark mass ratios derived from first principles  
+**Fundamental insight:** 15 January 2026 — Continuum mechanics formalism reveals particles as elastic medium compressions
 
 [![License](https://img.shields.io/badge/License-CC0-blue)](LICENSE)
 [![Python](https://img.shields.io/badge/Python-3.8+-blue?logo=python)](tools/python/)
@@ -41,6 +42,8 @@ Where **σ = 0.0212 N** (universal flux tension, approximately 2 grams-force) is
 
 📖 **[Full Theory (Markdown) → Part 1](One_Equation(1).md) | [Part 2](One_Equation(2).md)** *(GitHub-readable version with LaTeX rendering)*
 
+🔧 **[Continuum Mechanics Formalism → FM_CONTINUUM_MECHANICS_FORMALISM.md](FM_CONTINUUM_MECHANICS_FORMALISM.md)** *(NEW: Particles as elastic medium compressions, E ~ 10³⁵ Pa derived from electron mass)*
+
 🌀 **[Lepton Mass Breakthrough → lepton_excitations.md](lepton_excitations.md)** *(n² winding law derives electron/muon/tau mass ratios and Koide formula)*
 
 ⚛️ **[Quark Mass Extension → quark_masses.md](quark_masses.md)** *(Binary winding sequence n = 2^k with confinement curvature K ≈ 4.06)*
@@ -49,7 +52,37 @@ Where **σ = 0.0212 N** (universal flux tension, approximately 2 grams-force) is
 
 ## 🎯 Key Achievements
 
-### 🔥 DECEMBER 2025 BREAKTHROUGH: Fundamental Constants Derived from Topology
+### � JANUARY 2026 BREAKTHROUGH: Continuum Mechanics Formalism
+
+**Conceptual revolution**: Flux Monism translated from abstract field theory into **classical continuum mechanics**—particles are now understood as **twisted compressions in an elastic medium** with derivable properties.
+
+#### Elastic Modulus Derived (Not Fitted!)
+
+$$E \approx 2.9 \times 10^{35} \text{ Pa}$$
+
+**Derived from**: Electron mass (0.511 MeV) and Compton wavelength (386 fm)  
+**Physical meaning**: Flux medium is 10²⁴ times stiffer than diamond  
+**Explains**: Why particles are stable at quantum scales
+
+#### Forces Emerge from Stress Gradients
+
+- **Coulomb's law**: Pressure gradients from compression dipoles  
+- **Lorentz force**: Vorticity from moving knots (∇ × v = B)  
+- **Annihilation**: Stress cancellation (σ⁺ + σ⁻ = 0)
+
+**Result**: All electromagnetic phenomena are **mechanical effects** in an elastic medium—no mysterious action at a distance.
+
+#### Antiparticles as Mirror-Conjugate Stress
+
+Antiparticles are **opposite compression patterns** (σ⁻ = -σ⁺). When particle meets antiparticle, stress cancels → knots unwind → energy release (2mc² = Σhν).
+
+**Mathematical framework**: Standard elasticity theory (Hooke's law, Cauchy stress tensor) replaces quantum field theory formalism.
+
+🔧 **[Complete derivation → FM_CONTINUUM_MECHANICS_FORMALISM.md](FM_CONTINUUM_MECHANICS_FORMALISM.md)**
+
+---
+
+### �🔥 DECEMBER 2025 BREAKTHROUGH: Fundamental Constants Derived from Topology
 
 **Historic milestone**: After 109 years (Sommerfeld 1916), we can now **derive the fine structure constant** α ≈ 1/137 from first principles—not measure it, not fit it, but **calculate it from pure geometry**.
 
