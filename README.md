@@ -48,6 +48,8 @@ Where **σ = 0.0212 N** (universal flux tension, approximately 2 grams-force) is
 
 ⚛️ **[Quark Mass Extension → quark_masses.md](quark_masses.md)** *(Binary winding sequence n = 2^k with confinement curvature K ≈ 4.06)*
 
+🗺️ **[Document Navigation Map → DOCUMENT_MAP.md](DOCUMENT_MAP.md)** *(NEW: Complete guide to all documents, reading paths, and relationships)*
+
 ---
 
 ## 🎯 Key Achievements
