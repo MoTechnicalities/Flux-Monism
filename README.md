@@ -15,15 +15,28 @@
 
 ## 🌌 The Theory
 
-The universe is **one magnetic flux medium**. Everything emerges from topology:
+The universe is **one magnetic flux medium**. Everything emerges from flux geometry:
 
-- **Particles** = Topological knots in flux
+- **Particles** = Stable flux-crystal compression states (topological class labels are retained for indexing)
 - **Mass** = Path length through flux × universal tension
-- **Charge** = Knot handedness (left/right)  
+- **Charge** = Compression handedness (left/right)  
 - **Spin** = Winding parity (odd = ½, even = 3/2)
 - **Gravity** = Flux delay gradients
 - **Dark matter** = Galactic vortex eddies in flux medium
 - **Dark energy** = Cosmological mirage from flux density refraction
+
+### Terminology Note (Ontology Alignment)
+
+This repository now uses **flux-crystal/compression language** as primary ontology wording.
+
+- Legacy terms such as "knot" or "torus-knot T(p,q)" remain as mathematical indexing labels.
+- Physical interpretation is compression-based continuum mechanics in the flux medium.
+
+### Confidence Legend (Reviewer Clarity)
+
+- **Derived:** Obtained from internal equations with explicit computational steps.
+- **Modeled:** Quantitative fit or first-order approximation within stated assumptions.
+- **Hypothesized:** Proposed extension requiring further empirical validation.
 
 ### The Ruling Equation
 
@@ -37,7 +50,7 @@ $$
 
 Where **σ = 0.0212 N** (universal flux tension, approximately 2 grams-force) is the only free parameter.
 
-**Scope:** Provides exact predictions for **elementary particle masses** (electron, proton, neutron) at Compton wavelength scales (10⁻¹² to 10⁻⁸ m) with 6-7 significant figure accuracy. Topological framework extends to nuclear forces and qualitative cosmological insights. Macroscopic bulk matter is treated conventionally (sum of constituent particles).
+**Scope:** Provides exact predictions for **elementary particle masses** (electron, proton, neutron) at Compton wavelength scales (10⁻¹² to 10⁻⁸ m) with 6-7 significant figure accuracy. Compression-topology framework extends to nuclear forces and qualitative cosmological insights. Macroscopic bulk matter is treated conventionally (sum of constituent particles).
 
 📄 **[Full Theory (PDF) → One_Equation_to_Rule_Them_All.pdf](One_Equation_to_Rule_Them_All.pdf)** *(Updated December 2025 with corrected σ and dark energy refraction hypothesis)*
 
@@ -46,6 +59,10 @@ Where **σ = 0.0212 N** (universal flux tension, approximately 2 grams-force) is
 🔧 **[Continuum Mechanics Formalism → FM_CONTINUUM_MECHANICS_FORMALISM.md](FM_CONTINUUM_MECHANICS_FORMALISM.md)** *(Particles as elastic medium compressions, E ~ 10³⁵ Pa derived from electron mass)*
 
 🌊 **[Quantum Mechanics Derived → QUANTUM_MECHANICS_FROM_STRESS_WAVES.md](QUANTUM_MECHANICS_FROM_STRESS_WAVES.md)** *(NEW: Schrödinger equation, uncertainty, entanglement from stress waves—QM is classical mechanics!)*
+
+🧩 **[Micro-to-Macro Bridge v0.1 → MICRO_TO_MACRO_BRIDGE_V0_1.md](MICRO_TO_MACRO_BRIDGE_V0_1.md)** *(NEW: Formal scale map from micro invariants to macro effective parameters with explicit calibration/falsification protocol)*
+
+🧪 **[Bridge Worked Example (alpha_s) v0.1.1 → MICRO_TO_MACRO_BRIDGE_WORKED_EXAMPLE_ALPHA_S_V0_1_1.md](MICRO_TO_MACRO_BRIDGE_WORKED_EXAMPLE_ALPHA_S_V0_1_1.md)** *(NEW: Explicit A/D/P partition, parameter-status labeling, and falsification gates for running strong coupling)*
 
 🌀 **[Lepton Mass Breakthrough → lepton_excitations.md](lepton_excitations.md)** *(n² winding law derives electron/muon/tau mass ratios and Koide formula)*
 
@@ -76,11 +93,11 @@ $$\Delta x \cdot \Delta p \geq \frac{\hbar}{2}$$
 
 #### Quantum Phenomena Explained
 
-- **Wave-particle duality**: Knot (particle) + oscillating stress field (wave)
-- **Double-slit interference**: Stress field splits → interferes → knot relocalizes
+- **Wave-particle duality**: Flux-crystal localization + oscillating stress field
+- **Double-slit interference**: Stress field splits → interferes → crystal relocalizes
 - **Entanglement**: Shared continuous stress field (instant adjustment, no spooky action)
 - **Tunneling**: Stress field penetrates barriers exponentially
-- **Spin**: Intrinsic vorticity of knot topology
+- **Spin**: Intrinsic vorticity of compression topology
 - **Zero-point energy**: Minimum stress fluctuations (vacuum can't be still)
 - **Measurement collapse**: Stress localization through interaction
 
@@ -104,14 +121,14 @@ $$E \approx 2.9 \times 10^{35} \text{ Pa}$$
 #### Forces Emerge from Stress Gradients
 
 - **Coulomb's law**: Pressure gradients from compression dipoles  
-- **Lorentz force**: Vorticity from moving knots (∇ × v = B)  
-- **Annihilation**: Stress cancellation (σ⁺ + σ⁻ = 0)
+- **Lorentz force**: Vorticity from moving compression structures (∇ × v = B)  
+- **Annihilation**: Stress cancellation (σ⁺ + σ⁻ = 0) and structural unwind
 
 **Result**: All electromagnetic phenomena are **mechanical effects** in an elastic medium—no mysterious action at a distance.
 
 #### Antiparticles as Mirror-Conjugate Stress
 
-Antiparticles are **opposite compression patterns** (σ⁻ = -σ⁺). When particle meets antiparticle, stress cancels → knots unwind → energy release (2mc² = Σhν).
+Antiparticles are **opposite compression patterns** (σ⁻ = -σ⁺). When particle meets antiparticle, stress cancels → structure unwinds → energy release (2mc² = Σhν).
 
 **Mathematical framework**: Standard elasticity theory (Hooke's law, Cauchy stress tensor) replaces quantum field theory formalism.
 
@@ -221,7 +238,7 @@ Where **K ≈ 4.06** (QCD confinement factor) and **n = 2^k** (binary sequence):
 | Bottom | 16 | 2.16 GeV | 4.18 GeV |
 | Top | 32 | 8.62 GeV | 173 GeV (bare winding) |
 
-**Result:** Binary sequence **n = 2^k is topologically exact**. Quantitative deviations reflect QCD running corrections and Higgs coupling—expected for first-order geometric model.
+**Result:** Binary sequence **n = 2^k is topologically indexed**. Quantitative deviations reflect QCD running corrections and Higgs coupling—expected for first-order geometric model.
 
 #### Testable Predictions
 
@@ -237,11 +254,11 @@ Where **K ≈ 4.06** (QCD confinement factor) and **n = 2^k** (binary sequence):
 
 ---
 
-### ✅ Particle Topology Classification
+### ✅ Particle Topology Classification (Legacy Indexing Labels)
 
-All fundamental particles mapped to torus knot topologies T(p,q):
+All fundamental particles mapped to torus topology labels T(p,q), used as compact identifiers for flux-crystal compression classes:
 
-| Particle | Knot T(p,q) | Spin | Charge | Type |
+| Particle | Topology Label T(p,q) | Spin | Charge | Type |
 |----------|-------------|------|--------|------|
 | Electron | (2,1) | ½ | -1 | Lepton |
 | Positron | (1,2) | ½ | +1 | Lepton |

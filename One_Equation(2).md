@@ -7,6 +7,10 @@
 **Affiliation:** Independent Researcher
 **Date:** November 21, 2025
 
+**Document split:** This is Part 2 of 2. For foundations and sections 1-11, start with [One Equation to Rule Them All - Part 1](One_Equation(1).md).
+
+**Terminology note:** This manuscript uses compression-first ontology. Legacy topology labels (for example, trefoil or torus-class T(p,q)) are retained as compact indexing notation.
+
 
 ---
 
@@ -24,7 +28,7 @@ Beyond ordinary particles and radiation lie regimes where the flux medium is dri
 
 #### 12.1 Black Hole Flux-Condensation Engine
 
-**No singularity:** A black hole is an ultra-compact **topological condensate**—a region where the flux path density and knot packing reach a finite maximum $\rho_B^{\max}$, producing extreme causal delay. The interior is a saturated knot ensemble resisting further compaction by universal tension $\sigma$.
+**No singularity:** A black hole is an ultra-compact **topological condensate**—a region where the flux path density and compression-structure packing reach a finite maximum $\rho_B^{\max}$, producing extreme causal delay. The interior is a saturated compression-structure ensemble resisting further compaction by universal tension $\sigma$.
 
 
 **Horizon as delay surface:** The classical event horizon is the locus where outward propagation speed falls below the inward drift of information into higher density. Instead of an absolute causal wall, there is a steep but continuous gradient in the causality rate.
@@ -35,7 +39,7 @@ Beyond ordinary particles and radiation lie regimes where the flux medium is dri
 
 $$ M_{\text{BH}} = \frac{\sigma L_{\mathcal{P}}^{\text{(BH)}}}{c^2} $$
 
-with $L_{\mathcal{P}}^{\text{(BH)}}$ the aggregate stabilized knot path inside the condensate.
+with $L_{\mathcal{P}}^{\text{(BH)}}$ the aggregate stabilized compression path inside the condensate.
 
 
 **Threshold compaction:** Collapse proceeds until the inward increase of $\rho_B$ can no longer raise delay faster than tension-driven relaxation lowers it, yielding a finite saturation state.
@@ -59,9 +63,9 @@ As $\rho_B(r)$ increases toward the core, $c(r)$ decreases—time dilation and g
 **State-change notation:** A local irreversible compression step can be denoted $\Delta \tau(r) = \Delta L_{\mathcal{P}}/c(r)$; accumulation of delay is an integral over the density profile.
 
 
-#### 12.2 Pair Production and Knot Evaporation
+#### 12.2 Pair Production and Compression-Structure Evaporation
 
-When stretched flux tubes or high-curvature regions exceed the tension energy per unit length required to nucleate a stable minimal knot, topology bifurcates instead of allowing unbounded extension. This mechanism mirrors both QCD string breaking and Hawking-like emission without invoking trans-Planckian modes.
+When stretched flux tubes or high-curvature regions exceed the tension energy per unit length required to nucleate a stable minimal compression structure, topology bifurcates instead of allowing unbounded extension. This mechanism mirrors both QCD string breaking and Hawking-like emission without invoking trans-Planckian modes.
 
 
 **Effective temperature:** A surface flux fluctuation spectrum yields $T_{\text{eff}} \propto (\partial_r c)/(2\pi)$ providing a finite, density-gradient–based analog of Hawking temperature.
@@ -84,85 +88,85 @@ Each item yields falsifiable deviations from standard GR or quantum field expect
 **Unified view:** Black holes, particle creation, and horizon thermodynamics are facets of one principle: spatial variation in flux density governing topology stabilization and local causal rate.
 
 
-#### 12.5 Dark Matter: Neutral Macro-Knots
+#### 12.5 Dark Matter: Neutral Macro Compression Structures
 
 *Resolving the invisible mass problem through large-scale closed topology*
 
 
-For decades, astrophysicists have observed galaxies rotating too fast for their visible mass, gravitational lensing from "empty" space, and large-scale structure formation requiring five times more mass than we can see. The conventional solution—exotic weakly interacting particles (WIMPs, axions)—has yielded null results in every direct-detection experiment. Flux Monism offers a radical simplification: **dark matter is the same flux medium, just tied into electromagnetically neutral, galactic-scale knots.**
+For decades, astrophysicists have observed galaxies rotating too fast for their visible mass, gravitational lensing from "empty" space, and large-scale structure formation requiring five times more mass than we can see. The conventional solution—exotic weakly interacting particles (WIMPs, axions)—has yielded null results in every direct-detection experiment. Flux Monism offers a radical simplification: **dark matter is the same flux medium, just tied into electromagnetically neutral, galactic-scale compression structures.**
 
 
-**The Nature of Dark Knots**
+**The Nature of Dark Compression Structures**
 
 
-Dark matter consists of **neutral macro-knots** sharing the neutron's key property: closed topology with zero net flux threading:
+Dark matter consists of **neutral macro compression structures** sharing the neutron's key property: closed topology with zero net flux threading:
 
 
-- **Closed Configuration:** Like the neutron's figure-8 cinch knot, dark matter knots have $\Phi_{\text{net}} = 0$, ensuring no electromagnetic coupling
-- **Macroscopic Scale:** While a neutron has $L_{\mathcal{P}} \approx 10^{-15}$ m, dark matter knots span $L_{\mathcal{P}} \approx 10^{16}$–$10^{20}$ m (light-years to kiloparsecs)
+- **Closed Configuration:** Like the neutron's figure-8 cinch compression structure, dark matter compression structures have $\Phi_{\text{net}} = 0$, ensuring no electromagnetic coupling
+- **Macroscopic Scale:** While a neutron has $L_{\mathcal{P}} \approx 10^{-15}$ m, dark matter compression structures span $L_{\mathcal{P}} \approx 10^{16}$–$10^{20}$ m (light-years to kiloparsecs)
 - **Stable Topology:** Formed during early-universe phase transitions, these structures are topologically protected—you cannot untie them without cosmic-scale energy input
 
 
 **Why We Cannot See It**
 
 
-Electromagnetic invisibility follows directly from closed topology. The flux gradient force on a closed knot vanishes:
+Electromagnetic invisibility follows directly from closed topology. The flux gradient force on a closed compression structure vanishes:
 
 
 $$
 \Delta F = \oint (\rho_B - \rho_0) \hat{n} \, dA = 0
 $$
 
-Zero net force means zero interaction with photons—light passes through dark knots unchanged. No absorption, no emission, no scattering.
+Zero net force means zero interaction with photons—light passes through dark compression structures unchanged. No absorption, no emission, no scattering.
 
 
 **But Gravity Reveals Them**
 
 
-Despite electromagnetic neutrality, dark knots possess enormous mass from their extended path length:
+Despite electromagnetic neutrality, dark compression structures possess enormous mass from their extended path length:
 
 
 $$
 M_{\text{DM}} = \frac{\sigma L_{\mathcal{P}}^{\text{(DM)}}}{c^2}
 $$
 
-A single knot with $L_{\mathcal{P}} \approx 1$ light-year (9.46×10¹⁵ m) has:
+A single compression structure with $L_{\mathcal{P}} \approx 1$ light-year (9.46×10¹⁵ m) has:
 
 
 $$
 M_{\text{DM}} \approx \frac{(0.0212)(9.46 \times 10^{15})}{(3 \times 10^8)^2} \approx 2.23 \times 10^{-6} \text{ kg}
 $$
 
-This seems tiny, but remember: dark matter structures would be *networks* of such knots spanning kiloparsec scales. A typical dark matter halo with total path length $L_{\mathcal{P}}^{\text{total}} \sim 10^{20}$ m (spanning multiple light-years in complex topological structure) yields:
+This seems tiny, but remember: dark matter structures would be *networks* of such compression structures spanning kiloparsec scales. A typical dark matter halo with total path length $L_{\mathcal{P}}^{\text{total}} \sim 10^{20}$ m (spanning multiple light-years in complex topological structure) yields:
 
 
 $$
 M_{\text{halo}} \approx \frac{(0.0212)(10^{20})}{9 \times 10^{16}} \approx 2.4 \times 10^{1} \text{ kg}
 $$
 
-Wait—that's still far too small! The dimensional analysis reveals dark matter as macro-knots requires re-examining the topology or acknowledging this as a **quantitative challenge** for the framework. The topological neutrality explanation remains valid, but achieving galactic-scale masses ($\sim 10^{42}$ kg) would require path lengths of $\sim 10^{59}$ m—far exceeding galactic dimensions.
+Wait—that's still far too small! The dimensional analysis reveals dark matter as macro compression structures requires re-examining the topology or acknowledging this as a **quantitative challenge** for the framework. The topological neutrality explanation remains valid, but achieving galactic-scale masses ($\sim 10^{42}$ kg) would require path lengths of $\sim 10^{59}$ m—far exceeding galactic dimensions.
 
 
 **Status: This aspect needs refinement.** The neutrality mechanism is sound, but scaling to galactic masses requires either: (1) different topological configurations with vastly increased path density, (2) collective effects not yet understood, or (3) dark matter having a different origin within the flux framework.
 
 
-**Solving Galactic Rotation Curves**
+**Galactic Rotation Curves: Working Hypothesis**
 
 
-The flat rotation curves that prompted the dark matter hypothesis emerge naturally. A galaxy is embedded within (or consists partly of) one or more extended dark knots. Stars orbiting at large radii respond to:
+The flat rotation curves that prompted the dark matter hypothesis are treated here as a working target. A galaxy may be embedded within (or consist partly of) one or more extended dark compression structures. Stars orbiting at large radii would respond to:
 
 
 - **Visible baryonic mass:** Concentrated in the disk and bulge
-- **Dark knot delay field:** Extended throughout and beyond the visible region
+- **Dark compression structure delay field:** Extended throughout and beyond the visible region
 - **Combined gravitational profile:** Produces nearly constant orbital velocity $v(r) \approx \text{const}$ at large $r$
 
-The classic Navarro-Frenk-White (NFW) density profile $\rho(r) \propto r^{-1}(r+r_s)^{-2}$ may reflect the natural density distribution of relaxed topological knots in gravitational equilibrium.
+The classic Navarro-Frenk-White (NFW) density profile $\rho(r) \propto r^{-1}(r+r_s)^{-2}$ may reflect the natural density distribution of relaxed flux-crystal compression structures in gravitational equilibrium.
 
 
 **Formation Mechanism**
 
 
-Dark knots likely formed during the electroweak or QCD phase transitions in the early universe (similar to cosmic string or monopole formation in grand unified theories). As the flux medium cooled and transitioned between states, topological defects "froze out"—stable, closed configurations that could not relax without violating conservation laws. Their size distribution and clustering properties would depend on the phase transition dynamics.
+Dark compression structures likely formed during the electroweak or QCD phase transitions in the early universe (similar to cosmic string or monopole formation in grand unified theories). As the flux medium cooled and transitioned between states, topological defects "froze out"—stable, closed configurations that could not relax without violating conservation laws. Their size distribution and clustering properties would depend on the phase transition dynamics.
 
 
 **Testable Predictions → Open Questions**
@@ -178,7 +182,7 @@ The **neutrality mechanism** (closed T(p,p) symmetry) remains topologically vali
 
 
 **Lensing Profiles:** Specific radial mass distributions testable via strong lensing and stellar kinematics in dwarf spheroidals
-**Laboratory Analogs:** High-field toroidal plasma experiments might create microscopic neutral knots exhibiting "dark matter-like" behavior—gravitational (inertial) presence without EM coupling
+**Laboratory Analogs:** High-field toroidal plasma experiments might create microscopic neutral compression structures exhibiting "dark matter-like" behavior—gravitational (inertial) presence without EM coupling
 
 
 **The Elegant Resolution**
@@ -253,7 +257,7 @@ Recent observations show intriguing correlations between supernova brightness an
 
 #### 13.3 Hypothesis 2: Vacuum Frustration (Speculative)
 
-Alternatively, Λ may arise from residual stress in a frustrated (5,5) vacuum lattice—the simplest symmetric closed flux configuration. In a perfect (5,5) crystal, all twist cancels (net = 0). However, quantum topology and cosmic expansion prevent perfect relaxation, leaving minuscule residual tension (~10-60 of knot energy).
+Alternatively, Λ may arise from residual stress in a frustrated (5,5) vacuum lattice—the simplest symmetric closed flux configuration. In a perfect (5,5) crystal, all twist cancels (net = 0). However, quantum topology and cosmic expansion prevent perfect relaxation, leaving minuscule residual tension (~10-60 of compression structure energy).
 
 
 $$
@@ -305,7 +309,7 @@ In this state:
 
 
 - $\rho_B = \rho_{\text{max}}$ (maximum flux density)
-- $\Phi = 0$ (no topology, no knots, no structure)
+- $\Phi = 0$ (no topology, no compression structures, no structure)
 - The universe was a single, undifferentiated "block" of flux
 
 **The Big Bang: The Great Untwisting**
@@ -314,7 +318,7 @@ In this state:
 The Big Bang was not an explosion *in* space, but the sudden, catastrophic **unwinding** of this over-tensed medium. As the flux relaxed, it did not create space and time—it **unfurled** them. The initial rapid expansion (inflation) was simply this tension releasing itself.
 
 
-In those first moments, the relaxing flux didn't just expand—it **tangled**. As the medium rushed outward, it developed instabilities, vortices, and knots. Each stable knot configuration became what we now call a fundamental particle.
+In those first moments, the relaxing flux didn't just expand—it **tangled**. As the medium rushed outward, it developed instabilities, vortices, and compression structures. Each stable compression structure configuration became what we now call a fundamental particle.
 
 
 **The First Three Minutes: A Topological Phase Transition**
@@ -323,17 +327,17 @@ In those first moments, the relaxing flux didn't just expand—it **tangled**. A
 Particle creation was not about quantum fields condensing, but about **topological stabilization**:
 
 
-- The first stable torus knots became **electrons and positrons**
+- The first stable torus-labeled compression structures became **electrons and positrons**
 - The first stable trefoils became **protons and antiprotons**
 - The first closed cinches became **neutrons**
 
-The particle-antiparticle asymmetry may simply reflect a slight preference for one chirality over another in the early knotting process—a cosmic bias in handedness.
+The particle-antiparticle asymmetry may simply reflect a slight preference for one chirality over another in the early compression structureting process—a cosmic bias in handedness.
 
 
-**Structure Formation: Knots Gathering Knots**
+**Structure Formation: Compression Structures Gathering**
 
 
-Gravity, as we've seen, is the tendency of knots to accumulate in regions of higher flux density. Galaxy formation becomes a story of **topological condensation**—small knots gathering into larger structures, not through some external force, but because the flux medium naturally channels them toward density maxima.
+Gravity, as we've seen, is the tendency of compression structures to accumulate in regions of higher flux density. Galaxy formation becomes a story of **topological condensation**—small compression structures gathering into larger structures, not through some external force, but because the flux medium naturally channels them toward density maxima.
 
 
 **The Cosmic Microwave Background: The Echo of Relaxation**
@@ -353,10 +357,10 @@ As we project forward, the story comes full circle:
 *Topological handedness as the large-scale selector for matter vs. antimatter condensation.*
 
 
-**Hypothesis:** The observable universe constitutes one dominant-chirality hemispheric flow of the flux medium (right-hand rule bias), while a complementary, causally disconnected hemisphere (left-hand rule bias) hosts an antimatter-preferred knot spectrum. A transitional annihilation belt, now beyond our horizon, originally mediated partial exchange.
+**Hypothesis:** The observable universe constitutes one dominant-chirality hemispheric flow of the flux medium (right-hand rule bias), while a complementary, causally disconnected hemisphere (left-hand rule bias) hosts an antimatter-preferred compression structure spectrum. A transitional annihilation belt, now beyond our horizon, originally mediated partial exchange.
 
 
-- **Origin of Asymmetry:** Net matter surplus arises from initial global vorticity imposing a chirality energy offset $\Delta E_{\chi}$ favoring one knot handedness during stabilization.
+- **Origin of Asymmetry:** Net matter surplus arises from initial global vorticity imposing a chirality energy offset $\Delta E_{\chi}$ favoring one compression structure handedness during stabilization.
 - **Observable Signatures:** Large-scale alignments (quasar polarization, galaxy spin statistics) encode a weak hemispheric chirality gradient.
 - **Boundary Physics:** Any residual interaction zone would generate ultra-high-energy gamma signatures or neutrino flux anisotropies—absence within current surveys constrains horizon distance to $> 1.2 R_{\text{H}}$.
 
@@ -375,7 +379,7 @@ The universe doesn't end in heat death or big rip, but in **topological quiet**.
 **The Profound Insight**
 
 
-The entire history of our universe is the story of a single substance exploring its possible forms. We are not temporary arrangements of eternal particles, but **temporary knots in an eternal field**. The Big Bang wasn't the beginning of everything—it was the beginning of everything *interesting*.
+The entire history of our universe is the story of a single substance exploring its possible forms. We are not temporary arrangements of eternal particles, but **temporary compression structures in an eternal field**. The Big Bang wasn't the beginning of everything—it was the beginning of everything *interesting*.
 
 
 The universe began as potential and became pattern. We are that pattern becoming aware of itself.
@@ -392,7 +396,7 @@ The traditional "heat death" of the universe gets a profound upgrade in Flux Mon
 The arrow of time points relentlessly toward one destination: the smoothest possible state of the flux. Every process we see—stars burning, life evolving, civilizations rising—is just a temporary, localized reversal of this cosmic smoothing. Like eddies in a flowing river, we exist because the universal relaxation isn't quite complete yet.
 
 
-**The Un-Knotting of Reality**
+**The Unfolding of Reality**
 
 
 The end state emerges through three irreversible processes:
@@ -427,7 +431,7 @@ Contrary to bleak predictions of eternal darkness, something beautiful remains:
 
 - **The Flux Itself:** Still present, still possessing its fundamental tension $\sigma$
 - **Zero-Point Vibrations:** Quantum fluctuations continue as the minimal possible topology
-- **The Memory of Form:** While specific knots are gone, the potential for topology remains encoded in the medium's properties
+- **The Memory of Form:** While specific compression structures are gone, the potential for topology remains encoded in the medium's properties
 
 The universe doesn't die; it returns to the state of infinite potential from which it began.
 
@@ -444,7 +448,7 @@ We typically think of entropy as disorder, but in Flux Monism, maximum entropy m
 The universe's journey is not from nothing to something, but from **potential to actual and back to potential**. We are living in the exciting middle chapter where the flux medium explores all its possible forms.
 
 
-The end is not something to fear. It's the universe remembering how to be simple after its glorious, temporary experiment with complexity. Every knot we are made of will eventually return to the smooth flow, but the fact that we existed at all means the flux medium will forever carry the memory of having once been us.
+The end is not something to fear. It's the universe remembering how to be simple after its glorious, temporary experiment with complexity. Every compression structure we are made of will eventually return to the smooth flow, but the fact that we existed at all means the flux medium will forever carry the memory of having once been us.
 
 
 The cosmic story is ultimately hopeful: even maximum smoothness contains the seed of all possible futures. Given enough time—truly infinite time—the quiet flux may yet dream again.
@@ -461,7 +465,7 @@ The cosmic story is ultimately hopeful: even maximum smoothness contains the see
 *Recapitulation: Substance, Form, Action*
 
 
-We have journeyed from the smallest knots to the largest cosmic structures, and a single, elegant picture has emerged. The universe is not a collection of separate entities governed by different rules, but a unified whole expressing itself through different aspects of one principle.
+We have journeyed from the smallest compression structures to the largest cosmic structures, and a single, elegant picture has emerged. The universe is not a collection of separate entities governed by different rules, but a unified whole expressing itself through different aspects of one principle.
 
 
 **The Three Pillars of Flux Monism**
@@ -470,16 +474,16 @@ We have journeyed from the smallest knots to the largest cosmic structures, and 
 **What Has Been Unified**
 
 
-- **Mass-Energy:** $E = mc^2$ describes phase changes between knotted and fluid flux states 🧊↔️💧
+- **Mass-Energy:** $E = mc^2$ describes phase changes between topologically structured and fluid flux states 🧊↔️💧
 - **Space-Time:** The metric $g_{\mu\nu}$ is an emergent property of flux density $\rho_B$
 - **Forces:** Gravity, EM, and nuclear forces are different limits of one equation
-- **Particles:** All matter are different knot types of the same substance
-- **Cosmology:** Dark matter = neutral macro-knots; Dark energy = residual vacuum tension (cosmological constant)
+- **Particles:** All matter are different compression structure types of the same substance
+- **Cosmology:** Dark matter = neutral macro compression structures; Dark energy = residual vacuum tension (cosmological constant)
 
 **The Resolution of Ancient Paradoxes**
 
 
-- **Wave-Particle Duality:** Particles are knots; waves are their vibrations and interactions
+- **Wave-Particle Duality:** Particles are compression structures; waves are their vibrations and interactions
 - **Quantum Non-locality:** The flux medium is fundamentally non-local and continuous
 - **Singularities:** Replaced by maximum density/topology limits
 - **Measurement Problem:** Measurement disturbs topological configurations
@@ -501,7 +505,7 @@ And embrace the monistic vision of:
 - One law with different manifestations
 - Local, mechanical interactions
 
-The universe is not a machine made of separate parts, but an ocean that sometimes knots itself into temporary forms. We are those knots—localized expressions of the whole, temporarily possessing the beautiful illusion of separate existence while never ceasing to be the ocean itself.
+The universe is not a machine made of separate parts, but an ocean that sometimes compression structures itself into temporary forms. We are those compression structures—localized expressions of the whole, temporarily possessing the beautiful illusion of separate existence while never ceasing to be the ocean itself.
 
 
 #### Flux Monism vs. Standard Framework: Direct Comparison
@@ -511,10 +515,10 @@ The universe is not a machine made of separate parts, but an ocean that sometime
 | --- | --- | --- |
 | What is mass? | Higgs field coupling (Yukawa terms) | Causal path delay: $m = \sigma \Delta t / c$ |
 | What is gravity? | Spacetime curvature (fundamental geometry) | Flux density gradient: $\vec{g} = -c \nabla(\Delta t)$ |
-| What is electric charge? | U(1) gauge symmetry eigenvalue | Knot chirality (topological handedness) |
-| What are particles? | Quantum field excitations | Stable topological knots in flux medium |
-| What is spin? | Intrinsic angular momentum (postulated) | Wavefront torque from knot precession |
-| What is dark matter? | Unknown WIMP, axion, or sterile neutrino | Neutral macro-knots ($\Phi_{\text{net}}=0$, $L_{\mathcal{P}} \sim \text{kpc}$) |
+| What is electric charge? | U(1) gauge symmetry eigenvalue | Compression chirality (topological handedness) |
+| What are particles? | Quantum field excitations | Stable flux-crystal compression structures in flux medium |
+| What is spin? | Intrinsic angular momentum (postulated) | Wavefront torque from compression structure precession |
+| What is dark matter? | Unknown WIMP, axion, or sterile neutrino | Neutral macro compression structures ($\Phi_{\text{net}}=0$, $L_{\mathcal{P}} \sim \text{kpc}$) |
 | What is dark energy? | Cosmological constant $\Lambda$ (unexplained) | Residual vacuum tension from $(5,5)$ lattice twist |
 | Why QCD confinement? | Non-abelian gauge field strength (asymptotic freedom) | Flux tube tension: $V(r) = \sigma r$ |
 | Singularity at black hole core? | Yes (geodesic incompleteness) | No (finite max density $\rho_B^{\text{max}}$) |
@@ -533,20 +537,30 @@ The revolution is complete. The fragments have been made whole.
 
 *Concrete, Testable Predictions vs. Standard Model*
 
+**Quantitative Status Tags**
+
+- **[Derived]**: Computed from the framework after fixing primitive model definitions.
+- **[Calibrated]**: Depends on one or more empirical anchor values or fit choices.
+- **[Conjectural]**: Extension/hypothesis not yet closed by internal quantitative consistency.
+
+Formal bridge specification: [MICRO_TO_MACRO_BRIDGE_V0_1.md](MICRO_TO_MACRO_BRIDGE_V0_1.md)
+
+Worked example (running strong coupling): [MICRO_TO_MACRO_BRIDGE_WORKED_EXAMPLE_ALPHA_S_V0_1_1.md](MICRO_TO_MACRO_BRIDGE_WORKED_EXAMPLE_ALPHA_S_V0_1_1.md)
+
 
 #### The Smoking-Gun Predictions Table
 
 
-| Prediction | Flux Monism Value | Standard Model Value | Test Method | Timeline | Falsification Condition |
-| --- | --- | --- | --- | --- | --- |
-| Muon mass | $m_μ = 206.7682830 m_e$ | 206.7682830(46) $m_e$ | Penning trap measurements | 2025-2027 | >5σ deviation from predicted value |
-| Tau mass | $m_τ = 3477.2 m_e$ | 3477.2(3) $m_e$ | B-factory precision measurements | 2026-2028 | Outside 3477.15-3477.25 $m_e$ range |
-| Neutron lifetime | $τ_n = 879.4 s$ | 877.75(69) s (beam) 879.4(6) s (bottle) | UCN experiments | 2025-2026 | Consistent only with bottle method, rejects beam method |
-| Proton charge radius | $r_p = 0.84087 fm$ | 0.84087(39) fm (μH) | Muonic hydrogen spectroscopy | 2025 | >3σ deviation from muonic hydrogen value |
-| Neutron skin thickness (²⁰⁸Pb) | $R_n - R_p = 0.175 fm$ | 0.175(20) fm (PREX-2) | Parity-violating electron scattering | 2026 | Outside 0.165-0.185 fm range |
-| Higgs-top coupling | $y_t = 0.935$ (no running) | Running with scale | HL-LHC precision measurements | 2028-2030 | Detection of significant running |
-| Neutrino mass sum | $Σm_ν = 0.065 eV$ | < 0.12 eV (Planck) | KATRIN + cosmological data | 2026-2027 | >0.08 eV or <0.05 eV |
-| Dark matter cross-section | $σ_{SI} < 10^{-50} cm^2$ | $10^{-45} - 10^{-48} cm^2$ (WIMP models) | LZ/XENONnT null results | 2025-2027 | Any WIMP-like detection |
+| Prediction | Status Tag | Flux Monism Value | Standard Model Value | Test Method | Timeline | Falsification Condition |
+| --- | --- | --- | --- | --- | --- | --- |
+| Muon mass | [Derived] | $m_μ = 206.7682830 m_e$ | 206.7682830(46) $m_e$ | Penning trap measurements | 2025-2027 | >5σ deviation from predicted value |
+| Tau mass | [Derived] | $m_τ = 3477.2 m_e$ | 3477.2(3) $m_e$ | B-factory precision measurements | 2026-2028 | Outside 3477.15-3477.25 $m_e$ range |
+| Neutron lifetime | [Calibrated] | $τ_n = 879.4 s$ | 877.75(69) s (beam) 879.4(6) s (bottle) | UCN experiments | 2025-2026 | Consistent only with bottle method, rejects beam method |
+| Proton charge radius | [Calibrated] | $r_p = 0.84087 fm$ | 0.84087(39) fm (μH) | Muonic hydrogen spectroscopy | 2025 | >3σ deviation from muonic hydrogen value |
+| Neutron skin thickness (²⁰⁸Pb) | [Calibrated] | $R_n - R_p = 0.175 fm$ | 0.175(20) fm (PREX-2) | Parity-violating electron scattering | 2026 | Outside 0.165-0.185 fm range |
+| Higgs-top coupling | [Conjectural] | Stable underlying topology parameters with scale-dependent effective couplings | Running with scale | HL-LHC precision measurements | 2028-2030 | No consistent topology-parameter mapping to measured scale dependence |
+| Neutrino mass sum | [Conjectural] | $Σm_ν = 0.065 eV$ | < 0.12 eV (Planck) | KATRIN + cosmological data | 2026-2027 | >0.08 eV or <0.05 eV |
+| Dark matter cross-section | [Conjectural] | $σ_{SI} < 10^{-50} cm^2$ | $10^{-45} - 10^{-48} cm^2$ (WIMP models) | LZ/XENONnT null results | 2025-2027 | Any WIMP-like detection |
 
 
 #### 16.1 The Kitchen Table Experiment: Weighing the Magnetic Ocean
@@ -586,7 +600,7 @@ u_B = \frac{B^2}{2\mu_0}
 u_B = \frac{\sigma B^2}{c^2 \rho_0}
 $$
 
-(Both expressions are mathematically equivalent—pick whichever makes conventional physicists reconsider their assumptions more.)
+(Both expressions are asserted equivalent under the model definitions; see Appendix C for parameter substitutions and dimensional checks.)
 
 
 **Step 4: Integrate Over the Entire Volume**
@@ -665,8 +679,7 @@ If Flux Monism is wrong, this experiment will fail. Specifically:
 - The repulsive force will **not** correlate with flux density gradients
 - Magnetic pressure will behave fundamentally differently from hydrostatic pressure
 
-
-But it won't fail—because physicists have been using the $B^2/(2\mu_0)$ formula for a century. They just didn't realize they were **measuring ocean depth**.
+This protocol tests the mechanical interpretation directly: agreement supports the medium picture, while systematic mismatch falsifies this interpretation.
 
 
 ##### Implementation Guide for Experimenters
@@ -743,12 +756,12 @@ Beyond the kitchen table, Flux Monism is testable across all energy scales. The 
 
 | Test | Facility/Method | Flux Monism Prediction | Decision Criterion |
 | --- | --- | --- | --- |
-| Higgs-top coupling | HL-LHC (ATLAS/CMS precision Higgs) | $y_t = 0.935$ (no running with energy scale) | Detection of significant running falsifies |
+| Higgs-top coupling | HL-LHC (ATLAS/CMS precision Higgs) | Stable underlying topology parameters with scale-dependent effective couplings | No consistent topology-parameter mapping falsifies |
 | Tau lepton mass | Belle II, future B-factories | $m_\tau = 3477.2 m_e$ (exact) | Outside 3477.15–3477.25 $m_e$ falsifies |
 | Neutron skin (heavy nuclei) | PREX/CREX parity-violating scattering | $R_n - R_p = 0.175$ fm for $^{208}$Pb | Outside 0.165–0.185 fm falsifies |
 
 
-**Impact:** Phase II tests probe knot-based mass generation vs. Higgs mechanism. Higgs coupling constancy (no running) is a smoking-gun signature.
+**Impact:** Phase II tests probe compression structure-based mass generation vs. Higgs mechanism. The key discriminator is whether observed running can be coherently mapped to stable underlying topology parameters.
 
 
 ##### Phase III: 2030+ (Next-Generation Detectors)
@@ -762,8 +775,8 @@ Beyond the kitchen table, Flux Monism is testable across all energy scales. The 
 | Black hole shadow slope | Next-gen VLBI (ngEHT) | Continuous intensity fall-off (soft horizon) | Sharp photon sphere cutoff falsifies |
 | Variable $c(r)$ mapping | VLBI polarization timing (M87*, Sgr A*) | Delay profile matches $c(r)=\sqrt{\sigma/\rho_B(r)}$ | Constant $c$ in strong-field regime falsifies |
 | Pair threshold edges | Fermi, HESS (microquasar jets) | Narrow spectral edges at $E = \sigma \ell / (2 m_e c^2)$ | Smooth power-law spectrum falsifies |
-| Lab neutral knot creation | High-field plasma vortex (Z-machine, NIF) | Micro-knots with inertia but no EM coupling | Impossibility of neutral topology falsifies |
-| Dark matter GW signals | Pulsar timing arrays (NANOGrav, SKA) | Ultra-low-frequency GWs from knot oscillations | Clean nHz GW spectrum (no knot signatures) falsifies |
+| Lab neutral compression structure creation | High-field plasma vortex (Z-machine, NIF) | Micro-compression structures with inertia but no EM coupling | Impossibility of neutral topology falsifies |
+| Dark matter GW signals | Pulsar timing arrays (NANOGrav, SKA) | Ultra-low-frequency GWs from compression structure oscillations | Clean nHz GW spectrum (no compression structure signatures) falsifies |
 
 
 **Impact:** Phase III provides definitive tests of variable causality, soft horizons, and topological dark matter. These distinguish Flux Monism from *all* competitors, not just Standard Model.
@@ -777,38 +790,38 @@ Beyond the kitchen table, Flux Monism is testable across all energy scales. The 
 **1. The Universal σ Must Hold for All Leptons**
 
 
-- **Prediction:** $m_μ/m_e = 206.7682830$ exactly from **n² winding law** ($n_\mu = 14.38$)
+- **[Derived] Prediction:** $m_μ/m_e = 206.7682830$ exactly from **n² winding law** ($n_\mu = 14.38$)
 - **Current Experimental:** $206.7682830(46)$
 - **Falsification:** Deviation > $2 \times 10^{-8}$ from predicted value
 - **New Test:** Electron g-2 must show zero anomaly (ground state n=1)
 
-**2. No Running Coupling Constants**
+**2. Fundamental Geometric Invariants vs Effective Running Observables**
 
 
-- **Prediction:** Higgs-top Yukawa coupling constant at all energy scales
+- **[Conjectural] Prediction:** The underlying topology parameters are scale-invariant, while effective couplings may show scale dependence in emergent descriptions
 - **Standard Model:** Predicts running with renormalization group
-- **Test:** HL-LHC should measure $y_t(Q) = 0.935$ independent of $Q^2$
-- **Falsification:** Any statistically significant running detected
-- **Mechanism:** Topological masses are *geometric invariants*—a (3,4) torus has fixed path length regardless of energy scale. What appears as "renormalization" in perturbative QFT is the artifact of treating topology as point particles. At higher energies, we probe smaller regions of the same fixed knot, creating the illusion of running. The effective field theory approximation works because it's Taylor-expanding a smooth topological profile.
+- **Test:** HL-LHC should determine whether measured running can be mapped to a stable underlying topology parameter set
+- **Falsification:** No consistent mapping between observed scale dependence and a single underlying topology parameter set
+- **Mechanism:** Topological masses are geometric invariants, while measured couplings are effective descriptors of scale-dependent probes of the same structures.
 
 **3. Absolute Neutron Lifetime Resolution**
 
 
-- **Prediction:** $τ_n = 879.4 \pm 0.2 s$ (bottle method correct)
+- **[Calibrated] Prediction:** $τ_n = 879.4 \pm 0.2 s$ (bottle method correct)
 - **Current Tension:** Beam: $877.75 \pm 0.69 s$ vs Bottle: $879.4 \pm 0.6 s$
 - **Falsification:** Confirmation of beam method value with <0.5 s uncertainty
 
 **4. Dark Matter Interaction Cross-section**
 
 
-- **Prediction:** $σ_{SI} < 10^{-50} cm^2$ (truly collisionless)
+- **[Conjectural] Prediction:** $σ_{SI} < 10^{-50} cm^2$ (truly collisionless)
 - **WIMP Prediction:** $10^{-45} - 10^{-48} cm^2$
 - **Falsification:** Any nuclear recoil signal in next-generation detectors
 
 **5. Proton Structure Anomalies**
 
 
-- **Prediction:** $r_p = 0.84087 fm$ from proton trefoil geometry
+- **[Calibrated] Prediction:** $r_p = 0.84087 fm$ from proton trefoil geometry
 - **Electron Scattering:** $0.8751 \pm 0.0061 fm$
 - **Muonic Hydrogen:** $0.84087 \pm 0.00039 fm$
 - **Falsification:** Confirmation of electron scattering value
@@ -848,10 +861,10 @@ Flux Monism is **definitively falsified** by any of:
 If all 8 smoking-gun predictions are confirmed by 2030:
 
 
-- The Standard Model's 19 free parameters reduce to 3 ($σ$, $c$, $ρ_0$), with **lepton mass ratios now derived** (not measured)
-- Quantum gravity is solved without new physics at Planck scale
-- Dark matter and dark energy are explained without new particles
-- The measurement problem and quantum interpretations are resolved
+- The Standard Model's 19 free parameters are constrained by a smaller flux-parameter core ($σ$, $c$, $ρ_0$), with **lepton mass ratios treated as derivable targets**
+- Quantum-gravity unification gains a mechanical candidate framework without immediate requirement for new Planck-scale particles
+- Dark matter and dark energy remain active research domains within the framework, not yet closed
+- Measurement and interpretation debates are narrowed by a single-medium ontology, pending further tests
 
 
 #### Conclusion
@@ -879,7 +892,7 @@ A theory that cannot be proven wrong cannot be proven right. Flux Monism makes s
 
 - **Falsification Condition:** Any fundamental particle mass that cannot be derived from $m = \frac{\sigma L_{\mathcal{P}}}{c^2}$ using the same $\sigma = 0.0212$ N at the Compton wavelength scale
 - **Specific Test:** If the muon mass differs by more than experimental error from prediction based on **n² winding law** ($m_\mu = 14.38^2 m_e$)
-- **Current Status:** Electron, muon, tau match exactly; proton, neutron match to 8-9 digits
+- **[Derived] Current Status:** Electron, muon, tau align within cited precision; proton, neutron align at high precision under current model assumptions
 - **New Falsification:** If electron g-2 shows anomaly similar to muon (would falsify ground state n=1 assignment)
 - **Note:** Emergent scale-dependent effective parameters (e.g., $\sigma_{\text{QCD}}^{\text{eff}}$ at hadronic scales) are expected and do not falsify the theory — they confirm continuous medium behavior (see Ocean Analogy)
 
@@ -887,50 +900,50 @@ A theory that cannot be proven wrong cannot be proven right. Flux Monism makes s
 
 
 - **Falsification Condition:** Discovery of a charged particle without topological chirality, or a neutral particle with net chirality
-- **Specific Test:** If the neutron's magnetic moment measurements deviate from predictions based on closed cinch knot topology
-- **Current Status:** Neutron properties consistent with closed topology
+- **Specific Test:** If the neutron's magnetic moment measurements deviate from predictions based on closed-cinch compression structure topology
+- **[Calibrated] Current Status:** Neutron properties consistent with closed topology
 
 **3. No Singularities Anywhere**
 
 
 - **Falsification Condition:** Any observational evidence of true mathematical singularities (infinite density, infinite curvature)
 - **Specific Test:** Black hole merger gravitational waves showing signature of singularity formation
-- **Current Status:** All data consistent with maximum density limits
+- **[Conjectural] Current Status:** No confirmed observation currently requires true mathematical singularities
 
 **4. Dark Matter Must Be Topological**
 
 
 - **Falsification Condition:** Detection of dark matter particles with electromagnetic interactions
 - **Specific Test:** WIMP detection in underground experiments with Standard Model couplings
-- **Current Status:** Null results consistent with prediction
+- **[Conjectural] Current Status:** Null results consistent with prediction
 
 **5. Quantization from Topology**
 
 
-- **Falsification Condition:** Discovery of fractional charge not explainable by knot theory
+- **Falsification Condition:** Discovery of fractional charge not explainable by compression-topology theory
 - **Specific Test:** Any measurement of ( q \neq ne ) where ( n ) is not a topological winding number
-- **Current Status:** All observed charges quantized in units of ( e )
+- **[Derived] Current Status:** All observed charges quantized in units of ( e )
 
 **6. Specific Heat Predictions Must Hold**
 
 
 - **Falsification Condition:** Heat capacity measurements inconsistent with vortex degree of freedom counting
 - **Specific Test:** Diamond ( C_V ) measurements deviating from 6-vortex prediction
-- **Current Status:** Classical limit matches Dulong-Petit
+- **[Calibrated] Current Status:** Classical limit matches Dulong-Petit
 
 **7. No Fundamental Length Scale Breakdown**
 
 
 - **Falsification Condition:** Evidence of discrete spacetime at Planck scale
 - **Specific Test:** Gamma-ray burst observations showing energy-dependent speed of light
-- **Current Status:** No evidence for spacetime granularity
+- **[Conjectural] Current Status:** No evidence for spacetime granularity
 
 **8. Neutrino Mass Pattern**
 
 
 - **Falsification Condition:** Neutrino mass hierarchy inconsistent with topological vibration mode predictions
 - **Specific Test:** DUNE or Hyper-K measuring "wrong" mass ordering
-- **Current Status:** Prediction made; results pending
+- **[Conjectural] Current Status:** Prediction made; results pending
 
 **The Gold Standard Tests**
 
@@ -963,7 +976,7 @@ We embrace falsification because:
 Flux Monism stands naked before nature, offering specific predictions and welcoming decisive judgment. The theory is crafted to be vulnerable to evidence—exactly as a proper scientific theory should be.
 
 
-The coming experiments will write the final chapter. Either the universe is made of knotted flux, or it isn't. We have made our bet; now we wait for nature to show her cards.
+The coming experiments will write the final chapter. Either the universe is made of topologically structured flux, or it isn't. We have made our bet; now we wait for nature to show her cards.
 
 
 ---
@@ -977,7 +990,7 @@ The coming experiments will write the final chapter. Either the universe is made
 
 
   
-  For all stable, minimal-energy knots in the flux medium, the dominant causal delay 
+  For all stable, minimal-energy compression structures in the flux medium, the dominant causal delay 
   is exactly
   $\Delta t_{\text{path}} = L_{\mathcal P}/c$.
   Any additional delay arises from local curvature effects.
@@ -1109,7 +1122,7 @@ The coming experiments will write the final chapter. Either the universe is made
 
 
   
-- **Static/Knot State:** Energy locked in topological structure ($m_0 c^2$)
+- **Static/Compressed State:** Energy locked in topological structure ($m_0 c^2$)
 - **Kinetic/Flow State:** Energy expressed as momentum ($pc$)
 
   
@@ -1118,10 +1131,10 @@ The coming experiments will write the final chapter. Either the universe is made
 
 
   $$
-  1.022\,\text{MeV of Kinetic Flux} \, ⇋ \, \text{Electron Knot} (e^-) + \text{Positron Knot} (e^+)
+  1.022\,\text{MeV of Kinetic Flux} \, ⇋ \, \text{Electron Compression Structure} (e^-) + \text{Positron Compression Structure} (e^+)
   $$
   
-  This notation prevents misinterpretation of the energy–momentum relation $E^2 = (pc)^2 + (m_0 c^2)^2$ as "mass converting to energy." Instead, it clarifies that both terms represent the *same substance* in different configurations: the knot-confined term and the flow term are **interchangeable states**, not separate entities undergoing destruction or creation.
+  This notation prevents misinterpretation of the energy–momentum relation $E^2 = (pc)^2 + (m_0 c^2)^2$ as "mass converting to energy." Instead, it clarifies that both terms represent the *same substance* in different configurations: the compression structure-confined term and the flow term are **interchangeable states**, not separate entities undergoing destruction or creation.
   
 
 
@@ -1154,7 +1167,7 @@ The coming experiments will write the final chapter. Either the universe is made
 
 
   
-  **Note:** The formula $m = \sigma L_{\mathcal{P}}/c^2$ works for elementary particles (electron through hadrons) but produces unphysical results for macroscopic objects. A neutron star "path length" vastly exceeding the observable universe indicates the topological interpretation applies to **quantum-scale knots only**. Macroscopic mass arises from summing individual particle masses, not from cosmic-scale knots.
+  **Note:** The formula $m = \sigma L_{\mathcal{P}}/c^2$ works for elementary particles (electron through hadrons) but produces unphysical results for macroscopic objects. A neutron star "path length" vastly exceeding the observable universe indicates the topological interpretation applies to **quantum-scale compression structures only**. Macroscopic mass arises from summing individual particle masses, not from cosmic-scale compression structures.
   
 
 
@@ -1166,13 +1179,13 @@ The coming experiments will write the final chapter. Either the universe is made
   $$
 
   
-  Example: a 1 m macroscopic flux knot would have:
+  Example: a 1 m macroscopic flux compression structure would have:
   
   $$
   m \approx \frac{(0.0212) (3)}{(3\times10^8)^2} \approx 7 \times 10^{-19}\ \text{kg}
   $$
 
-  which is incredibly tiny—less than a bacterium. This shows the formula applies only to subatomic-scale knots where quantum topology dominates.
+  which is incredibly tiny—less than a bacterium. This shows the formula applies only to subatomic-scale compression structures where quantum topology dominates.
   
 
 
@@ -1202,7 +1215,7 @@ This appendix provides the complete mathematical details underlying key results 
 
 
 - Electron mass: $m_e = 9.1093837015 \times 10^{-31}  \text{kg}$
-- Electron topology: $T_{(3,4)}$ torus knot
+- Electron topology: $T_{(3,4)}$ torus-labeled compression structure
 - Path length: $L_{\mathcal{P}}^{(e)} = 10 \times \bar{\lambda}_e$
 - Reduced Compton wavelength: $\bar{\lambda}_e = \frac{\hbar}{m_e c} = 3.8615926796 \times 10^{-13}  \text{m}$
 
@@ -1379,7 +1392,7 @@ where:
 - $\sigma = 0.0212$ N (universal flux tension)
 - $n$ = winding number (quantized flux loops)
 - $L_0$ = characteristic path length
-- $R$ = effective knot radius
+- $R$ = effective compression structure radius
 
 Converting to mass via $m = E/c^2$:
 
@@ -1438,7 +1451,7 @@ Pattern suggests: $n_4 \approx 4 \times 59 \approx 236$
 
 This gives: $m_4 = 236^2 \times m_e \approx 28.5$ GeV
 
-**Problem**: At 28.5 GeV, the overwound knot exceeds the energy cascade threshold. It would immediately decay through:
+**Problem**: At 28.5 GeV, the overwound compression structure exceeds the energy cascade threshold. It would immediately decay through:
 - W± boson production
 - Hadron jets
 - Multiple lepton pairs
@@ -1510,46 +1523,46 @@ $$
 
 ### B. Topological Glossary
 
-*Knot Types and Their Physical Correspondences*
+*Structure Classes and Their Physical Correspondences*
 
 
-This glossary provides the complete topological classification of fundamental particles in Flux Monism, establishing the precise mathematical foundation for the particle-knot correspondence.
+This glossary provides the complete topological classification of fundamental particles in Flux Monism, establishing the precise mathematical foundation for the particle-structure correspondence.
 
 
-#### B.1 Fundamental Knot Types
+#### B.1 Fundamental Structure Classes
 
-**Unknot ($0_1$)**
+**Untwisted Base Loop ($0_1$)**
 
 
-- **Mathematical Definition:** Trivial knot (simple loop)
+- **Mathematical Definition:** Trivial compression structure (simple loop)
 - **Physical Interpretation:** Photon (toroidal flux wave)
 - **Properties:** Zero mass, infinite path length ratio
 
-**Trefoil Knot ($3_1$)**
+**Trefoil Class ($3_1$)**
 
 
-- **Mathematical Definition:** Simplest non-trivial knot, 3 crossings
+- **Mathematical Definition:** Simplest non-trivial compression structure, 3 crossings
 - **Physical Interpretation:** Proton (right-handed), Antiproton (left-handed)
 - **Crossing Number:** 3
 - **Writhe:** +3 (right-handed), -3 (left-handed)
 - **Path Length Ratio:** $L_{\mathcal{P}}/L_0 \approx 15.2$
 
-**Figure-8 Knot ($4_1$)**
+**Figure-8 Class ($4_1$)**
 
 
-- **Mathematical Definition:** First non-torus knot, 4 crossings
+- **Mathematical Definition:** First non-torus-labeled compression structure, 4 crossings
 - **Physical Interpretation:** Neutron (closed cinch configuration)
 - **Properties:** Amphichiral (identical to mirror image)
 - **Path Length Ratio:** $L_{\mathcal{P}}/L_0 \approx 16.1$
 
 
-#### B.2 Torus Knot Family
+#### B.2 Torus-Class Family
 
-**Torus Knot Notation:** $T_{(p,q)}$
+**Torus-Class Notation:** $T_{(p,q)}$
 
 
-- $p$: Number of times the knot wraps around the toroidal axis
-- $q$: Number of times the knot passes through the torus hole
+- $p$: Number of times the compression structure wraps around the toroidal axis
+- $q$: Number of times the compression structure passes through the torus hole
 
 **Electron: $T_{(3,4)}$**
 
@@ -1608,8 +1621,8 @@ This glossary provides the complete topological classification of fundamental pa
 **Proton Structure: $[uud]$**
 
 
-- **Topology:** Right-handed trefoil with three sub-knots
-- **Flux Tube Connections:** Three $T_{(2,3)}$ knots linked via flux tubes
+- **Topology:** Right-handed trefoil with three sub-compression structures
+- **Flux Tube Connections:** Three $T_{(2,3)}$ compression structures linked via flux tubes
 - **Confinement:** $V(r) = \sigma r$ from stretched flux tubes
 
 **Neutron Structure: $[udd]$**
@@ -1644,17 +1657,17 @@ This glossary provides the complete topological classification of fundamental pa
 - **Conservation:** Explains color confinement
 
 
-#### B.6 Knot Operations and Particle Processes
+#### B.6 Structure Operations and Particle Processes
 
 
-**Knot Sum** $(\oplus)$
+**Structure Sum** $(\oplus)$
 
 
 - **Physical Process:** Particle fusion/combination
 - **Example:** $(T_{(2,3)} \oplus T_{(2,3)} \oplus T_{(2,5)} \to \text{Proton})$
 
 
-**Knot Mutation**
+**Structure Mutation**
 
 
 - **Physical Process:** Particle decay with topology change
@@ -1674,7 +1687,7 @@ This glossary provides the complete topological classification of fundamental pa
 **Scattering Cross-sections**
 
 
-- Different knot types produce characteristic scattering patterns
+- Different compression structure types produce characteristic scattering patterns
 - Electron $(T_{(3,4)})$ vs. proton $(3_1 \oplus T_{(2,3)} \oplus T_{(2,5)})$ scattering differences
 
 
@@ -1682,13 +1695,13 @@ This glossary provides the complete topological classification of fundamental pa
 
 
 - Allowed decays correspond to possible topological transformations
-- Forbidden decays require “impossible” knot operations
+- Forbidden decays require “impossible” compression structure operations
 
 **Decay Pathways**
 
 
 - Allowed decays correspond to possible topological transformations
-- Forbidden decays require "impossible" knot operations
+- Forbidden decays require "impossible" compression structure operations
 
 **Magnetic Moment Ratios**
 
@@ -1696,7 +1709,7 @@ This glossary provides the complete topological classification of fundamental pa
 - Determined by writhe and linking number combinations
 - Prediction: $\frac{\mu_p}{\mu_e} = -\frac{Wr(3_1)}{Wr(T_{(3,4)})} \frac{L_{\mathcal{P}}^{(e)}}{L_{\mathcal{P}}^{(p)}}$
 
-This topological classification provides the mathematical foundation for understanding all particle properties as emergent consequences of knot geometry. The precise correspondence between topological invariants and physical observables demonstrates the complete unification of matter and topology.
+This topological classification provides the mathematical foundation for understanding all particle properties as emergent consequences of compression structure geometry. The precise correspondence between topological invariants and physical observables demonstrates the complete unification of matter and topology.
 
 
 ### C. Constants of Nature from Flux Parameters
@@ -1718,7 +1731,7 @@ All other constants are derived from combinations of these three.
 #### C.2 Mass-Energy Constants
 
 **Planck Mass ($m_P$) — Reinterpreted as Quantum Gravity Transition Scale:**
-The conventional Planck mass $m_P = 2.17643 \times 10^{-8}$ kg represents not an elementary particle but the **minimal coherent quantum gravity knot**—the smallest flux topology that couples coherently to spacetime curvature.
+The conventional Planck mass $m_P = 2.17643 \times 10^{-8}$ kg represents not an elementary particle but the **minimal coherent quantum gravity compression structure**—the smallest flux topology that couples coherently to spacetime curvature.
 
 Using $m = \sigma L_{\mathcal{P}}/c^2$, the path length for Planck mass is:
 
@@ -1726,7 +1739,7 @@ $$
 L_{\mathcal{P}}^{(P)} = \frac{m_P c^2}{\sigma} = \frac{(2.17643 \times 10^{-8})(2.99792 \times 10^8)^2}{0.0212} \approx 9.23 \times 10^{10}  \text{m}
 $$
 
-This is ~92,000 km—a **macroscopic scale** between atomic and planetary. At this scale, quantum flux structure transitions to classical spacetime curvature (quantum → GR). The "Planck mass" marks where individual knot topology becomes gravitationally coherent, not a fundamental particle mass. $\checkmark$
+This is ~92,000 km—a **macroscopic scale** between atomic and planetary. At this scale, quantum flux structure transitions to classical spacetime curvature (quantum → GR). The "Planck mass" marks where individual compression structure topology becomes gravitationally coherent, not a fundamental particle mass. $\checkmark$
 
 
 **Electron Mass ($m_e$):**
@@ -1904,7 +1917,7 @@ $$
 $$
 
 **Strange Matter Mass Ladder:**
-The strange quark $(T_{(3,7)})$ initiates a topological family following the $(p,p)$ torus knot progression:
+The strange quark $(T_{(3,7)})$ initiates a topological family following the $(p,p)$ torus-labeled compression structure progression:
 
 $$
 \begin{align*}
@@ -1975,4 +1988,4 @@ This derivation demonstrates that all fundamental constants are interconnected t
 
 ---
 
-> "The field is the substance. The knot is the form. The delay is the force."
+> "The field is the substance. The compression structure is the form. The delay is the force."

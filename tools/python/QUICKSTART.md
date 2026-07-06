@@ -35,6 +35,18 @@ Generates 11 .obj models and 11 .html previews in `output/`
 ```
 Generates enhanced visualizations with magnetic polarity colors in `output_enhanced/`
 
+### Bridge Holdout Report (alpha_s)
+```bash
+./run_alpha_s_bridge_holdout.sh
+```
+Prints a markdown holdout residual report for the micro-to-macro bridge worked example,
+including side-by-side fitted-model vs fixed-nominal-model (alpha0=0.35, gamma=3/(4*pi)) comparison tables and metrics.
+
+Write report to file:
+```bash
+./run_alpha_s_bridge_holdout.sh --out ../../alpha_s_holdout_report.md
+```
+
 ## View Results
 
 **Interactive HTML previews:**
@@ -59,8 +71,10 @@ blender --background --python output_enhanced/render_in_blender.py
 - `flux_monism_3d.py` - Basic 3D generator
 - `flux_monism_3d_enhanced.py` - Enhanced with magnetic colors
 - `flux_monism_simple.py` - Quick topology table
+- `alpha_s_bridge_holdout.py` - A/D/P holdout residual calculator for alpha_s bridge
 - `run_flux_demo.sh` - Launcher for demo
 - `run_3d_generator.sh` - Launcher for basic 3D
+- `run_alpha_s_bridge_holdout.sh` - Launcher for alpha_s bridge holdout report
 
 ## Troubleshooting
 

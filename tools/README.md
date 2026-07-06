@@ -13,6 +13,7 @@ The magnetic moment code achieves 10⁻⁶ accuracy. These topology tools focus 
 - Mass ordering follows topological complexity
 - 3D visualization with magnetic polarity colors
 - Interactive exploration of knot structures
+- Reproducible alpha_s holdout residual reporting for bridge validation
 
 ### ⚠️ Known Limitations
 - Absolute mass predictions are dimensionally incorrect (~10⁵⁸ too large)
@@ -68,6 +69,12 @@ python3 -m venv .venv
 source .venv/bin/activate
 pip install -r requirements.txt
 ./run_3d_generator.sh
+```
+
+**Bridge holdout report (alpha_s):**
+```bash
+cd python
+./run_alpha_s_bridge_holdout.sh --out ../../alpha_s_holdout_report.md
 ```
 
 **View Results:**

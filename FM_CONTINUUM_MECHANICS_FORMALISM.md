@@ -1,6 +1,6 @@
 # Flux Monism: Continuum Mechanics Formalism
 
-**A Reframing of Topological Structures in an Elastic Flux Medium**
+**A Reframing of Flux-Crystal Compression Structures in an Elastic Flux Medium**
 
 **Date:** January 15, 2026  
 **Status:** Fundamental Insight - Mathematical Translation
@@ -11,7 +11,9 @@
 
 The Flux Monism framework, while correct in its abstract formulation, obscures the underlying **mechanical reality**. 
 
-**Key Insight:** Particles are not abstract quantum degrees of freedom. They are **topological structures in an elastic medium**—specifically, twisted compressions that mechanically squeeze the flux into dipole pressure zones.
+**Key Insight:** Particles are not abstract quantum degrees of freedom. They are **flux-crystal compression structures in an elastic medium**—specifically, twisted compressions that mechanically squeeze the flux into dipole pressure zones.
+
+**Terminology alignment:** This document uses compression-first ontology. Legacy topology labels (for example `T(p,q)`) are retained as compact indexing notation for structural classes.
 
 **Mathematical Translation:** Instead of quantum field theory language, we should express FM using **continuum mechanics and elasticity theory**, where the physics becomes intuitive and mechanical.
 
@@ -46,41 +48,41 @@ Where $u_i$ is the displacement field—how far each point in the flux has moved
 
 ---
 
-## III. HOW KNOTS CREATE DIPOLES
+## III. HOW COMPRESSION STRUCTURES CREATE DIPOLES
 
-### The Knot as a Topological Compression
+### The Compression Structure as a Geometric Class
 
-A knot is not merely a topological pattern—it is a **region of mechanically compressed and twisted flux**.
+A flux-crystal is not merely a topological pattern—it is a **region of mechanically compressed and twisted flux**.
 
-When flux is twisted into a knot structure (e.g., T(2,3) torus knot for an electron):
+When flux is twisted into a stable compression class (e.g., T(2,3) topology label for an electron):
 
-1. **Central compression zone:** The core of the knot experiences maximum compression
+1. **Central compression zone:** The core of the structure experiences maximum compression
 2. **Bulging on opposite sides:** The compression forces flux outward on two opposite sides
-3. **Mechanical equilibrium:** The knot structure stabilizes this compression through its geometry
+3. **Mechanical equilibrium:** The compression structure stabilizes this state through its geometry
 
 ### Dipole Emerges Mechanically
 
-The compressed knot necessarily creates two pressure zones on opposite sides:
+The compressed structure necessarily creates two pressure zones on opposite sides:
 
 $$P_+ = P_0 + \Delta P \quad \text{(positive pressure zone = +charge, N-pole)}$$
 $$P_- = P_0 - \Delta P \quad \text{(negative pressure zone = -charge, S-pole)}$$
 
 Where:
 - $P_0$ = ambient flux pressure
-- $\Delta P$ = pressure differential created by knot compression
+- $\Delta P$ = pressure differential created by structural compression
 
-**Crucial point:** This dipole structure is not imposed by symmetry principles. It emerges mechanically from the knot's geometry. A knot CANNOT exist without creating a dipole.
+**Crucial point:** This dipole structure is not imposed by symmetry principles. It emerges mechanically from the geometry of the compressed structure. A stable compression class CANNOT exist without creating a dipole.
 
-### Stress Field of a Knot
+### Stress Field of a Compression Structure
 
-The stress field surrounding a knot decays with distance:
+The stress field surrounding a compression structure decays with distance:
 
 $$\sigma_{ij}(\vec{r}) \propto \frac{1}{r^n} T_{ij}(\hat{r})$$
 
 Where:
-- $T_{ij}(\hat{r})$ = angular dependence (knot symmetry)
+- $T_{ij}(\hat{r})$ = angular dependence (structural symmetry)
 - $n$ = power law decay (typically $n=2$ for 3D)
-- $\vec{r}$ = distance from knot center
+- $\vec{r}$ = distance from structure center
 
 This stress field **IS the electromagnetic field** we observe.
 
@@ -98,13 +100,13 @@ Forces arise naturally where stress varies in space.
 
 ### Electric Force (Coulomb's Law)
 
-Two positive charges (two knots with aligned compression) both create outward pressure:
+Two positive charges (two aligned compression structures) both create outward pressure:
 
 $$F \propto \frac{\Delta P_1 \cdot \Delta P_2}{r^2}$$
 
 This is **repulsion**—the pressure zones naturally push each other apart.
 
-Two opposite charges (knots with opposite compressions) create complementary pressure zones:
+Two opposite charges (structures with opposite compressions) create complementary pressure zones:
 
 $$F \propto -\frac{\Delta P_1 \cdot (-\Delta P_1)}{r^2}$$
 
@@ -114,9 +116,9 @@ This is **attraction**—the flux naturally flows from high to low pressure, pul
 
 ### Magnetic Force (Lorentz Force)
 
-When a knot moves through the flux, it creates a velocity field:
+When a compression structure moves through the flux, it creates a velocity field:
 
-$$\vec{v}(\vec{r}, t) = \text{(knot center velocity)} + \text{(circulation from twist)}$$
+$$\vec{v}(\vec{r}, t) = \text{(structure center velocity)} + \text{(circulation from twist)}$$
 
 The vorticity (circulation) is:
 
@@ -124,7 +126,7 @@ $$\vec{\omega} = \nabla \times \vec{v}$$
 
 A moving compression pattern creates **curling flow** in the flux perpendicular to its motion. This is the magnetic field.
 
-A second knot moving through this rotating medium experiences a force perpendicular to both its velocity and the vorticity:
+A second compression structure moving through this rotating medium experiences a force perpendicular to both its velocity and the vorticity:
 
 $$\vec{F} = q (\vec{v} \times \vec{B})$$
 
@@ -146,10 +148,10 @@ $$\sigma^-_{ij}(\vec{r}) = -\sigma^+_{ij}(\vec{r})$$
 
 Exactly opposite stress everywhere.
 
-### Antiknot Structure
+### Conjugate Compression Structure
 
-- **Electron:** Right-handed T(2,3) knot → compression creates (+ zone above, - zone below)
-- **Positron:** Left-handed T(2,3) antiknot → compression creates (- zone above, + zone below)
+- **Electron:** Right-handed T(2,3) compression class → (+ zone above, - zone below)
+- **Positron:** Left-handed T(2,3) conjugate compression class → (- zone above, + zone below)
 
 They are mirror images because the twist direction reverses.
 
@@ -159,7 +161,7 @@ When electron and positron meet in the same spatial region, their stress fields 
 
 $$\sigma^+_{ij} + \sigma^-_{ij} = 0$$
 
-The two opposite compressions **cannot coexist**. Both knots must simultaneously unravel, releasing all binding energy as flux turbulence (radiation).
+The two opposite compressions **cannot coexist**. Both structures must simultaneously unwind, releasing all binding energy as flux turbulence (radiation).
 
 ---
 
@@ -167,15 +169,15 @@ The two opposite compressions **cannot coexist**. Both knots must simultaneously
 
 ### Strain Energy
 
-The energy stored in a compressed knot is:
+The energy stored in a compressed structure is:
 
 $$E = \int_V \frac{1}{2} \sigma_{ij} \epsilon_{ij} \, dV$$
 
-Where the integral is over the volume occupied by the knot compression.
+Where the integral is over the volume occupied by the compression structure.
 
-For a knot with winding number $n$:
+For a compression structure with winding index $n$:
 
-$$E(n) \propto n^2 \times (\text{elastic modulus}) \times (\text{knot volume})$$
+$$E(n) \propto n^2 \times (\text{elastic modulus}) \times (\text{structure volume})$$
 
 ### Mass-Energy Equivalence
 
@@ -187,7 +189,7 @@ Therefore:
 
 $$m_n = m_e \cdot n^2$$
 
-This is why lepton masses scale as the square of winding number—higher winding = tighter compression = more stored energy.
+This is why lepton masses scale as the square of winding index—higher winding = tighter compression = more stored energy.
 
 **Note on units:** The factor $c^2$ converts stored elastic energy (joules) into rest mass (kilograms) via $E = mc^2$—the same relation that appears in special relativity, now derived directly from the medium's elastic properties rather than as a postulate.
 
@@ -203,14 +205,14 @@ The elastic modulus $E$ is not arbitrary. It can be derived directly from **know
 
 **Given data:**
 - Electron rest mass energy: $m_e c^2 = 0.511$ MeV = $8.19 \times 10^{-14}$ J
-- Compton wavelength: $\lambda_C = \frac{\hbar}{m_e c} = 386$ fm = $3.86 \times 10^{-16}$ m (characteristic knot size)
+- Compton wavelength: $\lambda_C = \frac{\hbar}{m_e c} = 386$ fm = $3.86 \times 10^{-16}$ m (characteristic compression scale)
 - Flux tension: $\sigma = 0.0212$ N (given parameter)
 
-**Energy stored in a compressed knot:**
+**Energy stored in a compressed structure:**
 
 $$m_e c^2 = \int_V \frac{1}{2} E \cdot \epsilon^2 \, dV \approx \frac{1}{2} E \cdot \epsilon_{\text{typical}}^2 \cdot \lambda_C^3$$
 
-Where $\epsilon_{\text{typical}}$ is the strain magnitude within the knot structure.
+Where $\epsilon_{\text{typical}}$ is the strain magnitude within the compression structure.
 
 **Solving for elastic modulus:**
 
@@ -237,19 +239,19 @@ For comparison:
 
 This extraordinary stiffness is **necessary and explains why particles can exist:**
 
-1. **Confines knots at quantum scales** — The enormous stiffness prevents topological structures from spontaneously unwinding under quantum fluctuations
-2. **Stabilizes particle structure** — Without this stiffness, thermal and quantum fluctuations would destroy knot geometry
+1. **Confines flux-crystals at quantum scales** — The enormous stiffness prevents compression structures from spontaneously unwinding under quantum fluctuations
+2. **Stabilizes particle structure** — Without this stiffness, thermal and quantum fluctuations would destroy compression geometry
 3. **Creates particle stability** — The resistance to deformation IS what makes particles persistent entities rather than temporary fluctuations
 
 ### Consistency Check: Surface Pressure
 
-The surface pressure at the knot boundary can be estimated as:
+The surface pressure at the structural boundary can be estimated as:
 
 $$P_{\text{surface}} = \frac{E \cdot \epsilon_{\text{typical}}}{\text{(geometric factor)}} \approx \frac{E \cdot \epsilon_{\text{typical}}}{\text{order 1}}$$
 
 $$P_{\text{surface}} \sim 10^{35} \times 0.1 \approx 10^{34} \text{ Pa}$$
 
-This matches the characteristic pressure scale needed to confine flux into a knot structure at the Compton wavelength:
+This matches the characteristic pressure scale needed to confine flux into a compression structure at the Compton wavelength:
 
 $$P_{\text{conf}} = \frac{m_e c^2}{\lambda_C^3} \approx 1.4 \times 10^{33} \text{ Pa}$$
 
@@ -303,15 +305,15 @@ This is close to the **classical electron radius** ($r_e \approx 2.8 \times 10^{
 
 ---
 
-## VII. MOVING KNOTS AND CIRCULATION
+## VII. MOVING COMPRESSION STRUCTURES AND CIRCULATION
 
 ### Velocity Field from Motion
 
-When a knot moves with velocity $\vec{V}$, it drags flux with it:
+When a compression structure moves with velocity $\vec{V}$, it drags flux with it:
 
 $$\vec{v}(\vec{r}, t) = \vec{V} + \vec{v}_{\text{circulation}}(\vec{r} - \vec{R}(t))$$
 
-Where $\vec{R}(t)$ is the knot's position.
+Where $\vec{R}(t)$ is the structure position.
 
 ### Vorticity (Magnetic Field)
 
@@ -319,7 +321,7 @@ The curl of velocity creates vorticity:
 
 $$\vec{\omega} = \nabla \times \vec{v}$$
 
-For a moving twisted knot:
+For a moving twisted compression structure:
 
 $$\nabla \times \vec{v}_{\text{circulation}} \neq 0$$
 
@@ -333,8 +335,8 @@ $$\vec{B} \propto \vec{\omega}$$
 
 A moving electron creates a specific vortex pattern:
 
-- **Direction:** Perpendicular to motion (right-hand rule from knot twist)
-- **Strength:** Proportional to velocity and knot twist tightness
+- **Direction:** Perpendicular to motion (right-hand rule from structural twist)
+- **Strength:** Proportional to velocity and structural twist tightness
 - **Spatial pattern:** Circulates around motion axis
 
 This naturally produces the observed Lorentz force on other moving charges.
@@ -345,15 +347,15 @@ This naturally produces the observed Lorentz force on other moving charges.
 
 ### When Particle and Antiparticle Meet
 
-Two knots with opposite compressions (particle + antiparticle) approach each other:
+Two structures with opposite compressions (particle + antiparticle) approach each other:
 
 $$\sigma_{\text{total}} = \sigma^+ + \sigma^- = 0$$
 
-At the meeting point, the stress field vanishes. The two knots cannot maintain their structure without the supporting stress.
+At the meeting point, the stress field vanishes. The two structures cannot maintain form without the supporting stress.
 
 ### Rapid Unraveling
 
-Both knots simultaneously unwind. Their stored compression energy is released as:
+Both structures simultaneously unwind. Their stored compression energy is released as:
 
 $$E_{\text{released}} = m_e c^2 + m_e c^2 = 2 m_e c^2$$
 
@@ -447,7 +449,7 @@ $$F_i = -\frac{\partial \sigma_{ij}}{\partial x_j}$$
 ### Coulomb Force (from stress decay)
 $$F = k_e \frac{|q_1 q_2|}{r^2}$$
 
-Where $k_e$ relates to elastic modulus and knot compression strength.
+Where $k_e$ relates to elastic modulus and compression strength.
 
 ### Lorentz Force (from vorticity)
 $$\vec{F} = q(\vec{v} \times \vec{B}), \quad \vec{B} \propto \nabla \times \vec{v}$$
@@ -474,7 +476,7 @@ Quantum mechanics emerges naturally from continuum mechanics—probability ampli
 
 ### No Abstract Symmetries Needed
 
-Symmetries aren't imposed principles; they emerge from the mechanical constraints of knot geometry.
+Symmetries aren't imposed principles; they emerge from the mechanical constraints of compression geometry.
 
 ### Forces Are Unified
 
@@ -497,7 +499,7 @@ What we measure as electromagnetic fields are actually stress distributions in t
 The elastic modulus E ~ 10³⁵ Pa explains why α⁻¹ = 2⁷ + 3² + 1/(4π√5):
 
 - **2⁷**: EM phase space dimensions from elastic stress modes
-- **3²**: Trefoil T(2,1) knot symmetry order
+- **3²**: Trefoil-labeled T(2,1) compression symmetry order
 - **1/(4π√5)**: Golden ratio from compression path geometry
 
 See [fine_structure_constant.md](fine_structure_constant.md) for complete derivation.
@@ -539,11 +541,11 @@ See [dark_matter_dark_energy.md](dark_matter_dark_energy.md) for cosmological ap
 
 ### Weak Force as Topological Transition
 
-W/Z bosons are **temporary stress field reconfigurations** during knot-type transitions (e.g., T(2,1) → T(3,2) with energy release).
+W/Z bosons are **temporary stress field reconfigurations** during compression-class transitions (e.g., T(2,1) -> T(3,2) with energy release).
 
 ### Gravity from Compression Density
 
-Regions of high knot density create cumulative stress effects—this IS gravity. Einstein field equations emerge from stress tensor averaging.
+Regions of high compression-structure density create cumulative stress effects; this IS gravity. Einstein field equations emerge from stress tensor averaging.
 
 ### Quantum Mechanics from Stress Fluctuations
 
@@ -553,7 +555,7 @@ $$\Delta x \cdot \Delta p \geq \frac{\hbar}{2} \Rightarrow \Delta \epsilon \cdot
 
 ### Entanglement from Shared Compression
 
-Two knots in overlapping stress fields are fundamentally coupled—measurement of one immediately affects the other through instantaneous stress redistribution.
+Two compression structures in overlapping stress fields are fundamentally coupled; measurement of one immediately affects the other through instantaneous stress redistribution.
 
 ---
 

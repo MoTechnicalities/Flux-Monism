@@ -22,6 +22,8 @@ Quantum mechanics has been treated as **fundamental and mysterious** since its i
 
 **Revolutionary implication**: Quantum mechanics becomes **classical continuum mechanics** of an elastic medium with E ~ 10³⁵ Pa.
 
+Terminology note: this document uses compression-first ontology. Legacy topology labels remain valid as compact structural indices.
+
 ---
 
 ## 2. Stress Waves in Elastic Media
@@ -164,18 +166,18 @@ You cannot have:
 
 ---
 
-## 5. Wave-Particle Duality from Knot Oscillations
+## 5. Wave-Particle Duality from Compression Oscillations
 
 ### 5.1 Particle as Localized Compression
 
-A "particle" is a **topological knot** = localized stress compression with:
+A "particle" is a **flux-crystal compression structure** = localized stress compression with:
 - Finite spatial extent (~Compton wavelength)
 - Mass = stored elastic energy
-- Well-defined position (knot center)
+- Well-defined position (compression center)
 
 ### 5.2 Wave as Stress Oscillation
 
-The stress field around the knot **oscillates**:
+The stress field around the compression structure **oscillates**:
 $$\sigma(r,t) = \sigma_0(r) \cos(\omega t - k \cdot r + \phi)$$
 
 This creates:
@@ -185,20 +187,20 @@ This creates:
 
 ### 5.3 Double-Slit Interference
 
-When a particle (knot) approaches a double slit:
-1. **Before slit**: Knot is localized (particle-like)
+When a particle (compression structure) approaches a double slit:
+1. **Before slit**: Structure is localized (particle-like)
 2. **At slit**: Stress field splits between both slits
 3. **After slit**: Two stress waves interfere (wave-like)
 4. **At screen**: Interference pattern in stress energy density
-5. **Detection**: Knot localizes where stress energy is highest
+5. **Detection**: Structure localizes where stress energy is highest
 
-**The particle goes through both slits as a stress wave, then re-localizes as a knot upon measurement.**
+**The particle goes through both slits as a stress wave, then re-localizes as a compression structure upon measurement.**
 
 ### 5.4 Which Slit Information
 
 If you measure which slit the particle goes through:
 - Measurement device creates **additional stress field** near one slit
-- Knot interacts with measurement stress → localizes to one slit
+- Compression structure interacts with measurement stress -> localizes to one slit
 - Stress field no longer splits → no interference
 
 **Measurement collapse = stress field localization due to interaction with measurement apparatus.**
@@ -218,7 +220,7 @@ $$P(\vec{r}) = \frac{\sigma^*(\vec{r}) \sigma(\vec{r})}{\int \sigma^*(\vec{r}') 
 This is simply:
 $$P(\vec{r}) = \frac{\text{stress energy density at } \vec{r}}{\text{total stress energy}}$$
 
-**Born rule is energy conservation**: The knot must be somewhere, and it's most likely where the stress energy is concentrated.
+**Born rule is energy conservation**: The compression structure must be somewhere, and it's most likely where the stress energy is concentrated.
 
 ### 6.2 Why Probability?
 
@@ -230,7 +232,7 @@ We use probability because:
 
 **Probability is epistemic (knowledge limitation), not ontological (fundamental randomness).**
 
-The knot follows deterministic stress field dynamics, but we cannot measure initial conditions to infinite precision.
+The compression structure follows deterministic stress field dynamics, but we cannot measure initial conditions to infinite precision.
 
 ---
 
@@ -275,11 +277,11 @@ Dipole transitions (Δℓ = ±1) are allowed because:
 
 ### 8.1 Two-Particle System
 
-Consider two particles (knots) with overlapping stress fields:
+Consider two particles (compression structures) with overlapping stress fields:
 
 $$\sigma_{\text{total}}(\vec{r}_1, \vec{r}_2) = \sigma_1(\vec{r}_1) + \sigma_2(\vec{r}_2) + \sigma_{\text{int}}(\vec{r}_1, \vec{r}_2)$$
 
-Where σᵢₙₜ is the **interaction stress field**—the elastic coupling between knots.
+Where σᵢₙₜ is the **interaction stress field**—the elastic coupling between structures.
 
 ### 8.2 Entangled State
 
@@ -289,16 +291,16 @@ $$\sigma(\vec{r}_1, \vec{r}_2) = \frac{1}{\sqrt{2}} [\sigma_A(\vec{r}_1)\sigma_B
 
 **This is an entangled state** (antisymmetric for fermions).
 
-**Physical meaning**: The two knots are connected by a continuous stress field. They are not separate—they are two compressions in the same medium.
+**Physical meaning**: The two structures are connected by a continuous stress field. They are not separate—they are two compressions in the same medium.
 
 ### 8.3 Measurement on One Particle
 
 When you measure particle 1:
 1. Measurement apparatus creates strong local stress field
-2. Knot 1 localizes to specific position/spin
+2. Structure 1 localizes to specific position/spin
 3. **Stress field instantly adjusts throughout entire medium**
-4. Knot 2's stress distribution changes immediately
-5. Next measurement on knot 2 reflects new stress distribution
+4. Structure 2's stress distribution changes immediately
+5. Next measurement on structure 2 reflects new stress distribution
 
 **"Spooky action at a distance" is stress field adjustment**—instant because the field is continuous.
 
@@ -332,7 +334,7 @@ Consider a cat coupled to a radioactive atom:
 $$|\psi\rangle = \frac{1}{\sqrt{2}} (|\text{alive}\rangle + |\text{dead}\rangle)$$
 
 **Stress field interpretation**:
-- Radioactive decay = knot unwinding (stress release)
+- Radioactive decay = compression-structure unwinding (stress release)
 - Before measurement: Stress field is superposition of (undecayed + decayed)
 - Cat's stress field coupled to atom's stress field
 - **Cat is actually in a definite state** (alive or dead)
@@ -349,7 +351,7 @@ Large objects (cats) interact with countless environmental stress fields:
 
 These interactions **localize the stress field** rapidly:
 - Superposition decays in ~10⁻²⁰ seconds for macroscopic objects
-- Knot position becomes definite
+- Structure position becomes definite
 - Quantum behavior disappears
 
 **Decoherence is stress field thermalization**—interaction with environment destroys coherent stress oscillations.
@@ -382,10 +384,10 @@ If barrier width is d:
 $$P_{\text{tunnel}} \approx e^{-2\kappa d}$$
 
 **Why tunneling works**:
-1. Stress field extends beyond knot localization
+1. Stress field extends beyond structure localization
 2. Stress penetrates barrier (evanescent wave)
 3. If barrier is thin, stress field emerges on other side
-4. Knot can re-localize in emerging stress field
+4. Structure can re-localize in emerging stress field
 5. **Particle "teleports" through barrier**
 
 **Tunneling is stress field leakage through classically forbidden regions.**
@@ -399,9 +401,9 @@ Classical: Alpha cannot escape (bound state)
 Quantum: Alpha tunnels through Coulomb barrier
 
 **Stress picture**:
-- Alpha is knot structure inside nucleus
+- Alpha is a compression structure inside nucleus
 - Stress field penetrates Coulomb barrier
-- Eventually, stress field fluctuation allows knot to escape
+- Eventually, stress field fluctuation allows structure escape
 - Decay is probabilistic (depends on stress fluctuations)
 
 Lifetime τ ~ 10⁹ years for U-238: Extremely thick barrier → tiny tunneling probability.
@@ -416,23 +418,23 @@ Electrons have spin ½, but they're not "spinning balls"—the angular momentum 
 
 ### 11.2 Stress Vorticity Interpretation
 
-The trefoil knot T(2,1) has intrinsic vorticity:
+The trefoil-labeled compression class T(2,1) has intrinsic vorticity:
 $$\vec{\omega} = \nabla \times \vec{v}$$
 
-Where v is the flux velocity field within the knot.
+Where v is the flux velocity field within the compression structure.
 
 **Spin angular momentum**:
 $$\vec{S} = \int \vec{r} \times (\rho \vec{v}) \, d^3r = \frac{\hbar}{2}$$
 
 For T(2,1) trefoil topology.
 
-### 11.3 Spin-½ from Knot Topology
+### 11.3 Spin-½ from Compression Topology
 
-The **½** comes from the knot structure:
-- One full knot twist = 2π rotation
+The **½** comes from the compression structure:
+- One full structural twist = 2π rotation
 - But trefoil has **p=2, q=1** winding
 - Effective rotation per cycle: π (half turn)
-- **Spin-½ is geometric phase from knot topology**
+- **Spin-½ is geometric phase from compression topology**
 
 ### 11.4 Stern-Gerlach Experiment
 
@@ -440,7 +442,7 @@ Passing electron through magnetic field gradient:
 - Magnetic field = vorticity field (∇ × B ≠ 0)
 - Electron's intrinsic vorticity interacts
 - **Two possible alignments**: parallel (↑) or anti-parallel (↓)
-- Knot's vorticity locks to external field direction
+- Structure vorticity locks to external field direction
 - Beam splits into two
 
 **Spin measurement = vorticity alignment with external stress circulation.**
@@ -451,7 +453,7 @@ Passing electron through magnetic field gradient:
 
 ### 12.1 Particle in a Box
 
-Confine knot to region 0 < x < L:
+Confine compression structure to region 0 < x < L:
 
 Boundary conditions: σ(0) = σ(L) = 0 (stress vanishes at walls)
 
@@ -494,8 +496,8 @@ $$E_0 = \frac{1}{2}\hbar\omega$$
 In QFT, field operators ψ̂(x) create/annihilate particles.
 
 **Stress interpretation**:
-- **Creation operator** â†(k): Creates localized stress compression (knot) with momentum k
-- **Annihilation operator** â(k): Unwinds knot → releases stress energy
+- **Creation operator** â†(k): Creates localized stress compression structure with momentum k
+- **Annihilation operator** â(k): Unwinds compression structure -> releases stress energy
 
 Field operator:
 $$\hat{\psi}(\vec{x}) = \int \frac{d^3k}{(2\pi)^{3/2}} [a_k e^{i\vec{k}\cdot\vec{x}} + a_k^\dagger e^{-i\vec{k}\cdot\vec{x}}]$$
@@ -511,7 +513,7 @@ Virtual particles in Feynman diagrams are **temporary stress compressions** that
 
 **Stress picture**:
 - Vacuum constantly fluctuates (stress oscillations)
-- Temporarily form knot-like structures (virtual particles)
+- Temporarily form compression-like structures (virtual particles)
 - Quickly dissipate back into vacuum
 - During interaction, these fluctuations mediate forces
 
@@ -523,7 +525,7 @@ Virtual particles in Feynman diagrams are **temporary stress compressions** that
 Bare charge e₀ gets "dressed" by virtual particle cloud → observed charge e.
 
 **Stress interpretation**:
-- Bare knot creates strong local stress field
+- Bare compression structure creates strong local stress field
 - Vacuum fluctuations respond (polarization)
 - Surrounding stress compressions screen the field
 - Effective stress at distance r is reduced
@@ -542,7 +544,7 @@ Standard QM: Wave function "collapses" upon measurement, but mechanism is unclea
 ### 14.2 Stress Field Resolution
 
 **Before measurement**:
-- Knot (particle) has extended stress field σ(r)
+- Compression structure (particle) has extended stress field σ(r)
 - Stress distributed over large volume
 - Position indefinite (spread out)
 
@@ -552,7 +554,7 @@ Standard QM: Wave function "collapses" upon measurement, but mechanism is unclea
 - Interaction localizes particle's stress field
 
 **After measurement**:
-- Knot position definite (localized by interaction)
+- Structure position definite (localized by interaction)
 - Stress field now concentrated at detection point
 - "Collapse" is stress field localization through interaction
 
@@ -565,7 +567,7 @@ Measurement devices are macroscopic → involve ~10²³ atoms → enormous stres
 When particle interacts with detector:
 - Particle's weak stress field couples to detector's massive stress field
 - Detector's stress field **overwhelms** particle's delocalized stress
-- Knot forced to localize at one position
+- Compression structure forced to localize at one position
 - Amplification cascade: One atom ionized → triggers avalanche → macroscopic signal
 
 **Definite outcomes = stress field amplification from microscopic to macroscopic scale.**
@@ -648,7 +650,7 @@ This integral diverges! Need cutoff at λ_min ~ 10⁻¹⁸ m (Planck scale).
 
 **Claims**: All measurement outcomes occur in separate branches, no collapse.
 
-**Stress field view**: Only one stress field exists. Measurement localizes knot to one position. No branching.
+**Stress field view**: Only one stress field exists. Measurement localizes the compression structure to one position. No branching.
 
 **Verdict**: Unnecessary complication. Single stress field sufficient.
 
@@ -656,7 +658,7 @@ This integral diverges! Need cutoff at λ_min ~ 10⁻¹⁸ m (Planck scale).
 
 **Claims**: Particles have definite positions guided by wave function.
 
-**Stress field view**: Knots have positions, but stress field guides motion. Very similar!
+**Stress field view**: Compression structures have positions, but stress field guides motion. Very similar!
 
 **Verdict**: Closest to stress field picture. Stress field = pilot wave.
 
@@ -761,7 +763,7 @@ Where:
 
 **Known**: QFT treats fields as operators: ψ → ψ̂
 
-**Stress interpretation**: Quantized stress field = discrete knot creation/annihilation.
+**Stress interpretation**: Quantized stress field = discrete compression-structure creation/annihilation.
 
 **Question**: How does continuous stress field become discrete at Planck scale?
 
@@ -780,13 +782,13 @@ We have demonstrated that **quantum mechanics emerges from classical stress wave
 **Key derivations**:
 1. ✅ **Schrödinger equation** from stress field oscillations
 2. ✅ **Uncertainty principle** from stress-strain energy balance
-3. ✅ **Wave-particle duality** from knot oscillations
+3. ✅ **Wave-particle duality** from compression oscillations
 4. ✅ **Probability** from stress energy density (Born rule)
 5. ✅ **Quantization** from standing stress waves
 6. ✅ **Tunneling** from stress field penetration
 7. ✅ **Entanglement** from shared stress fields
 8. ✅ **Measurement collapse** from stress localization
-9. ✅ **Spin** from intrinsic knot vorticity
+9. ✅ **Spin** from intrinsic compression-structure vorticity
 10. ✅ **Zero-point energy** from minimum stress fluctuations
 
 **Revolutionary implications**:
